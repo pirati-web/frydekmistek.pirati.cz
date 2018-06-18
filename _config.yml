@@ -29,7 +29,7 @@ github_username:  jekyll
 
 # Github pages setting
 baseurl: "example.pirati.cz" # the subpath of your site, e.g. /blog
-remote_theme: jitka/jekyll-theme-pirati
+remote_theme: pirati-web/jekyll-theme-pirati
 
 
 
