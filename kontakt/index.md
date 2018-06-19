@@ -5,14 +5,10 @@ residence: yes #vyplňte pokud chcete přidat adresu nejbližšího pice
 
 ## Přidejte se
 
-Zajámá vás co piráti dělají? Ozvěte se Jakubu Pirátovy nebo přijďte k nám 
-na schůzi kterou pořádáme v XY.
+Zajímá vás, co piráti dělají? Ozvěte se našemu krajskému koordinátorovi Jakubovi Dedkovi na jakub.dedek@pirati.cz.
 
-Chcete přístup k pirátskym systémum? Regitrujte se na nalodění. TODO odkaz.
+Můžete také přijít na veřejnou krajskou schůzi, kterou pořádáme každou první středu v měsíci v Ostravském Pirátském centru OPiCe.
 
-Financí dary můžete posílat na [dary](https://dary.pirati.cz). 
-Pokud chcete darovat přimo naší MS poradtě se s XY
+Finanční dary pro Českou Pirátskou stranu můžete posílat na [dary](https://dary.pirati.cz). 
 
-
-Strany našeho kraje jsou TODO.
-
+Webové stránky krajského sdružení najdete [zde] (https://moravskoslezsky.pirati.cz/).
