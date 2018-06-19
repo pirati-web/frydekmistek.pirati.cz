@@ -5,6 +5,7 @@ fullname: Leonard Varga  	# jméno s tituly etc.
 category:
   - clenove
   - kandidat-obec
+  - kontaktni_osoba
 description: Obchodní zástupce, designér # zobrazuje se v lide
 profession: provozovatel obchodu s lokálním designem
 # img: people/ppp.jpg # zakomentuj radek dokud není fotka
