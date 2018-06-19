@@ -13,13 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Frýdek-Místek
-email: your-email@example.com
+title: Pirátská strana | FRÝDEK MÍSTEK
+email: leonard.varga@pirati.cz
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Web místní buňky Pirátů z Frýdku - Místku
+url: "https://frydekmistek.pirati.cz/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -74,16 +72,18 @@ defaults:   # defaults values for collection scope
 emptyArray: []
 
 organization:
-  name: Jmeno skupiny používající web - př Pirástá strana
-  shortName: Název skupiny
-  contactUid: jakub.pirat
-  email: example@pirati.cz
-  phone: +420 777 123 456 789
+  name: Pirátská strana Frýdek - Místek
+  shortName: Frýdek - Místek
+  contactUid: leonard.varga
+  email: leonard.varga@pirati.cz
+  phone: +420 774 837 566
   address: |
-    Piratská planeta 1
-    100 00 Pirátsko
+    Česká Pirátská strana
+    Moravskoslezský kraj
+    Jugoslávská 3038/40A
+    700 30 Ostrava - Zábřeh
   residenceImg:
-  mapLink: https://mapy.cz/zakladni?base=ophoto&q=Radou%C5%A1ova%2014,%20Chrudim
+  mapLink: https://mapy.cz/zakladni?x=18.3416929&y=49.6810111&z=12&source=muni&id=4753&q=frydek%20mistek
   redmineLink: https://redmine.pirati.cz/projects
 
 homepageTeaser:
