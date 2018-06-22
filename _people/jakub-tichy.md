@@ -4,14 +4,12 @@ name:     Jakub Tichý  	# běžně používáné jméno
 fullname: Jakub Tichý  	# jméno s tituly etc.
 category:
   - priznivci
-  - kandidat-obec
 description: Ředitel Kultura F=M a divadla Aréna Ostrava # zobrazuje se v lide
 profession: ředitel divadla Aréna v Ostravě
 # img: people/ppp.jpg # zakomentuj radek dokud není fotka
 candidateDescription: ředitel divadla # zobrazuje se v komunalni-volby
 mail:
   - jakubtichy@yahoo.com
-cityCandidatePosition: 1
 profiles:
   facebook: https://www.facebook.com/jakub.tichy.10  # pokud nema, staci smazat tuto radku
   googleplus: https://plus.google.com/+uzivatel.na.googleplus

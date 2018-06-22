@@ -4,7 +4,6 @@ name:     Leonard Varga 	# běžně používáné jméno
 fullname: Leonard Varga  	# jméno s tituly etc.
 category:
   - clenove
-  - kandidat-obec
   - kontaktni_osoba
 description: Obchodní zástupce, designér # zobrazuje se v lide
 profession: provozovatel obchodu s lokálním designem
@@ -12,7 +11,6 @@ profession: provozovatel obchodu s lokálním designem
 candidateDescription: provozovatel obchodu s lokálním designem # zobrazuje se v komunalni-volby
 mail:
   - leonard.varga@pirati.cz
-cityCandidatePosition: 2
 profiles:
   facebook: https://www.facebook.com/leonard.varga.5  # pokud nema, staci smazat tuto radku
   # googleplus: https://plus.google.com/+uzivatel.na.googleplus

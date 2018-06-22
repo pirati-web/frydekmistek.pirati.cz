@@ -1,0 +1,10 @@
+headerTitle: Komunální volby 2018
+baseUrl: /komunalni-volby/
+
+campaigns:
+  - title: Program na radnici
+    category: radnice 
+    candidates:
+      - jakub.tichy
+      - leonard.varga
+      - marketa.ubikova

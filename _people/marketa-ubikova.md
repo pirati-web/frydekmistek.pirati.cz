@@ -4,13 +4,11 @@ name:     Markéta Ubíková  	# běžně používáné jméno
 fullname: Markéta Ubíková  	# jméno s tituly etc.
 category:
   - priznivci
-  - kandidat-obec
 description: podnikatelka na rodičovské dovolené # zobrazuje se v lide
 profession: projektová manažerka
 # img: people/ppp.jpg # zakomentuj radek dokud není fotka
 mail:
   - marketa.ubikova@pirati.cz
-cityCandidatePosition: 3
 profiles:
   facebook: https://www.facebook.com/piratifrm/  # pokud nema, staci smazat tuto radku
   # googleplus: https://plus.google.com/+uzivatel.na.googleplus
