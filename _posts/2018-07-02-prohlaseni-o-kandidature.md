@@ -11,7 +11,7 @@ tags:
   - kandidatura
 ---
 
-Česká pirátská strana se bude ucházet o hlasy voličů ve volbách do zastupitelstev obcí ve Frýdku-Místku, které se budou konat 5. a 6. října 2018.
+**Česká pirátská strana se bude ucházet o hlasy voličů ve volbách do zastupitelstev obcí ve Frýdku-Místku,** které se budou konat 5. a 6. října 2018.
 
 Lídrem kandidátky je Jakub Tichý, pět let ředitel příspěvkové organizace města Národní dům, známé pod značkou Kultura F≈M, nyní nově ředitel Komorní scény Aréna v Ostravě.
 Z druhého místa bude Jakubovi jistit záda Leonard Varga, který se nedávno vrátil do rodného města Frýdku-Místku po téměř deseti letech života v Olomouci a Praze. S přítelkyní si ve městě otevřeli obchod s lokálním designem a nyní by chtěl kultivovat prostředí, ve kterém se rozhodl žít.
