@@ -5,7 +5,7 @@ title: Prohlášení o kandidatuře
 date: 2018-07-02T12:00:00.000Z
 author: Leonard Varga
 authorId: leonard.varga    # uid nekoho z _people
-image: /assets/img/posts/obrazek.u.tohoto.postu.jpg
+# image: /assets/img/posts/obrazek.u.tohoto.postu.jpg
 tags:
   - frýdekmístek
   - kandidatura
