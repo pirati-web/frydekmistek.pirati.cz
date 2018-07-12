@@ -1,14 +1,12 @@
 ---
-layout: blog
-category: CLANKY
-title: Prohlášení o kandidatuře
-date: 2018-07-02T12:00:00.000Z
-author: Leonard Varga
-authorId: leonard.varga    # uid nekoho z _people
-# image: /assets/img/posts/obrazek.u.tohoto.postu.jpg
+date: 2018-07-12
+category: blog
 tags:
-  - frýdekmístek
-  - kandidatura
+layout: post
+title: Prohlášení o kandidatuře
+author: Leonard Varga
+authorId: leonard.varga    # uid nekoho z _people (nepoviné)
+image: posts/FM_prohlaseni.jpg
 ---
 
 **Česká pirátská strana se bude ucházet o hlasy voličů ve volbách do zastupitelstev obcí ve Frýdku-Místku,** které se budou konat 5. a 6. října 2018.
