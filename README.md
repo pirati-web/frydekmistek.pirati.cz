@@ -1,4 +1,4 @@
-# frydekmistek.pirati.cz
+#  frydekmistek.pirati.cz
 
 První nasazení jekyll-theme-priati.
 
