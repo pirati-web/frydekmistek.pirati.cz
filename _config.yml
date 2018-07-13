@@ -25,6 +25,8 @@ github_username:  jekyll
 baseurl: ""
 theme: jekyll-theme-pirati
 
+administrator:
+  email: jitka.novotna@pirati.cz # mail kam pujdou chybove vystupy
 
 organization:
   name: Pirátská strana Frýdek - Místek
