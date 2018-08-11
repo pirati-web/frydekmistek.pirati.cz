@@ -84,8 +84,8 @@ homepageBanner:
   title: Komunální volby 2018
   breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
   image:
-    default: mainpageBanner.jpg #obrazek vložte do assets/img
-    mobile: mainpageBanner.jpg #obrazek vložte do assets/img
+    default: mainpageBanner.png #obrazek vložte do assets/img
+    mobile: mainpageBanner.png #obrazek vložte do assets/img
 
 # Build settings
 markdown: kramdown
