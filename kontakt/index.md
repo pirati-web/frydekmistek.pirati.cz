@@ -11,4 +11,4 @@ Můžete také přijít na veřejnou krajskou schůzi, kterou pořádáme každo
 
 Finanční dary pro Českou Pirátskou stranu můžete posílat na [dary](https://dary.pirati.cz). 
 
-Webové stránky krajského sdružení najdete [zde] (https://moravskoslezsky.pirati.cz/).
+Webové stránky krajského sdružení najdete [zde](https://moravskoslezsky.pirati.cz/).
