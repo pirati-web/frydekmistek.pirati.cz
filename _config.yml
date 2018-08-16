@@ -48,10 +48,6 @@ organization:
 #  link: /komunalni-volby/
 #  title: Komunální volby 2018
 
-program:
-  title: Program
-  Test
-
 calendar:
   title: Krajský kalendář
   page: https://calendar.google.com/calendar/embed?src=i7ipksvi9b852grgjic8mnhua0%40group.calendar.google.com&ctz=Europe%2FPrague
