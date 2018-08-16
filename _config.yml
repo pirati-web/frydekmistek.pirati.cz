@@ -43,10 +43,10 @@ organization:
   mapLink: https://mapy.cz/zakladni?x=18.3416929&y=49.6810111&z=12&source=muni&id=4753&q=frydek%20mistek
   redmineLink: https://redmine.pirati.cz/projects
 
-homepageTeaser:
-  display: true
-  link: /komunalni-volby/
-  title: Komunální volby 2018
+# homepageTeaser:
+#  display: true
+#  link: /komunalni-volby/
+#  title: Komunální volby 2018
 
 calendar:
   title: Krajský kalendář
