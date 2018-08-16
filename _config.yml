@@ -57,18 +57,18 @@ facebook:
   profilePage: https://www.facebook.com/piratifrm
   appId: 1526197851008996
 
-twitter:
-  loadSDK: true
-  profile: PiratskaStrana
+#twitter:
+#  loadSDK: true
+#  profile: PiratskaStrana
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
 
-gplus:
-  profilePage: https://plus.google.com/u/0/+piratskastrana
+#gplus:
+#  profilePage: https://plus.google.com/u/0/+piratskastrana
 
-flicker:
-  profilePage: https://www.flickr.com/photos/pirati/
+#flicker:
+#  profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
   page: https://forum.pirati.cz/
