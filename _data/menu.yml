@@ -10,21 +10,21 @@ top:
     icon: "fa fa-newspaper-o"
 
 main:
-  - link: /aktuality/
-    name: Aktuality
-    match: aktuality
-  - link: /lide/
-    name: O nás
-    match: lide
-    submenu:
-        - link: /lide
-          name: Naši lidé
-          match: lide
+#  - link: /aktuality/
+#    name: Aktuality
+#    match: aktuality
+#  - link: /lide/
+#    name: O nás
+#    match: lide
+#    submenu:
+#        - link: /lide
+#          name: Naši lidé
+#          match: lide
   - link: /komunalni-volby/
-    name: Komunální volby
+    name: VOLBY2018
     match: komunalni-volby
   - link: /kontakt/
-    name: Kontakt
+    name: Podpoř nás
     match: kontakt
 
 bottom:
