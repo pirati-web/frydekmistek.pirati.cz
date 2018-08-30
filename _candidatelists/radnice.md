@@ -21,6 +21,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 #    profession: zametač
 #    description: expert přes dětská hřiště
 #    party: Evropani.cz
+  - uid: igor.juricek
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
