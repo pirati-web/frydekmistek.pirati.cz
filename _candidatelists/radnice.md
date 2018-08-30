@@ -45,6 +45,6 @@ tail: # zbytek kandidatky
     profession: student
     party: Piráti
 note: # poznámka pod kanidátku
-    #### [Kompletní kandidátka ...](kandidatka/)
     Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
 ---
+#### [Kompletní kandidátka ...](kandidatka/)
