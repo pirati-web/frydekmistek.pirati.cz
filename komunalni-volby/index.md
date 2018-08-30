@@ -10,3 +10,4 @@ candidateListUid: radnice # uid z `_candidates/radnice.md`
 
 > "Vyhrajeme vobly", říká leader.
 
+#### [Kompletní kandidátkaa ...](_candidatelists/kandidatka/)
