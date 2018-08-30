@@ -1,6 +1,9 @@
 ---
 title: Kandidátka na radnici
 uid: radnice
+layout: page
+published: true
+---
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: jakub.tichy
@@ -47,7 +50,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 # note: # poznámka pod kanidátku
     # Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
 #### [Kompletní kandidátka ...](kandidatka/index.md)
----
+
 #### [Kompletní kandidátkaa ...](kandidatka/index.md)
 
 <a href="kandidatka/index.md"><h3>Kompletní kandidátkaaa ...</h3></a>
