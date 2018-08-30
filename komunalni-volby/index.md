@@ -10,4 +10,4 @@ candidateListUid: radnice # uid z `_candidates/radnice.md`
 
 > "Vyhrajeme vobly", říká leader.
 
-#### [Kompletní kandidátkaa ...](_candidatelists/kandidatka/index.md)
+#### [Kompletní kandidátkaa ...](frydekmistek.pirati.cz/_candidatelists/kandidatka/index.md)
