@@ -33,18 +33,18 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: dominik.drmela
   - uid: veronika.madejova
   - uid: dominik.pecuch
-tail: # zbytek kandidatky
+# tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
-  - name: Mudr. Místní Dkotor
-    age: 49
-    profession: obvodní lékař
-    party: bez politické příslušnosti
-  - name: Tomáš Šťoural
-    age: 19
-    profession: student
-    party: Piráti
-note: # poznámka pod kanidátku
-    Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
+ # - name: Mudr. Místní Dkotor
+ #   age: 49
+ #   profession: obvodní lékař
+ #   party: bez politické příslušnosti
+ # - name: Tomáš Šťoural
+ #   age: 19
+ #   profession: student
+ #   party: Piráti
+# note: # poznámka pod kanidátku
+    # Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
 ---
 #### [Kompletní kandidátka ...](kandidatka/)
