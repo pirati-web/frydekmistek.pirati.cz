@@ -46,8 +46,8 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
  #   party: Piráti
 # note: # poznámka pod kanidátku
     # Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
-[Kompletní kandidátka ...](kandidatka/)
+#### [Kompletní kandidátka ...](kandidatka/index.md)
 ---
+#### [Kompletní kandidátkaa ...](kandidatka/index.md)
 
-
-<a href="kandidatka/index.md"><h3>Kompletní kandidátka ...</h3></a>
+<a href="kandidatka/index.md"><h3>Kompletní kandidátkaaa ...</h3></a>
