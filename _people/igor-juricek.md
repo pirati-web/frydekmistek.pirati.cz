@@ -1,0 +1,23 @@
+---
+uid: igor.juricek
+name:     Igor Juríček 	# běžně používáné jméno
+fullname: Mgr. Igor Juríček  	# jméno s tituly etc.
+category:
+  - priznivci
+description: překladatel # zobrazuje se v lide
+profession: překladatel
+# img: people/ppp.jpg # zakomentuj radek dokud není fotka
+# mail:
+#  - marketa.ubikova@pirati.cz
+profiles:
+  facebook: https://www.facebook.com/piratifrm/  # pokud nema, staci smazat tuto radku
+  # googleplus: https://plus.google.com/+uzivatel.na.googleplus
+  # twitter: https://twitter.com/uzivatel.na.twitteru
+---
+Igor Juríček (1981), z Frýdku-Místku, kde kromě období studia a digitálního nomádství i celý život žiju a podnikám.
+
+Mám za sebou jazykové gymnázium ve FM, anglickou filologii na Ostravské univerzitě (Bc.) a marketingové a sociální komunikace na Univerzitě Tomáše Bati ve Zlíně (Mgr.).
+
+Ještě na škole jsem začal podnikat v oboru překladatelství, čemuž se věnuju dodnes. Po dokončení studia ve Zlíně jsem se vrátil do FM (kde politickou situaci sleduju a kritizuju dlouhodobě).
+
+Ve volném čase se nejraději věnuju sportu, což v mém případě zahrnuje hlavně kolo, snowboard a kitesurfing/snowkiting.
