@@ -1,7 +1,7 @@
 ---
 uid: marketa.ubikova
 name:     Markéta Ubíková  	# běžně používáné jméno
-fullname: Markéta Ubíková  	# jméno s tituly etc.
+fullname: Mgr. Markéta Ubíková  	# jméno s tituly etc.
 category:
   - priznivci
 description: podnikatelka na rodičovské dovolené # zobrazuje se v lide
