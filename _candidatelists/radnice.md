@@ -36,7 +36,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: dominik.drmela
   - uid: veronika.madejova
   - uid: dominik.pecuch
-# tail: # zbytek kandidatky
+tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
  # - name: Mudr. Místní Dkotor
