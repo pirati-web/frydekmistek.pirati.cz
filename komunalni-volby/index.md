@@ -9,5 +9,3 @@ candidateListUid: radnice # uid z `_candidates/radnice.md`
 Úvodní text. Např vysvětlení koalice, podpory.
 
 > "Vyhrajeme vobly", říká leader.
-
-
