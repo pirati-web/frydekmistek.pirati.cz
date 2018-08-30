@@ -22,6 +22,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 #    description: expert přes dětská hřiště
 #    party: Evropani.cz
   - uid: igor.juricek
+  - uid: michaela.davidova
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
