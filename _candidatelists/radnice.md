@@ -48,7 +48,7 @@ tail: # zbytek kandidatky
  #   profession: student
  #   party: Piráti
  note: # poznámka pod kanidátku
-     Zbytek kandidátky zveřejníme, v průběhu měsíce.
+ Zbytek kandidátky zveřejníme, v průběhu měsíce.
 ---
 
 
