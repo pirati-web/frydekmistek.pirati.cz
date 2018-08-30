@@ -47,9 +47,9 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
  #   age: 19
  #   profession: student
  #   party: Piráti
-# note: # poznámka pod kanidátku
+ note: # poznámka pod kanidátku
+    #### [Kompletní kandidátka ...](kandidatka/index.md)
     # Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
-#### [Kompletní kandidátka ...](kandidatka/index.md)
 ---
 #### [Kompletní kandidátkaa ...](kandidatka/index.md)
 
