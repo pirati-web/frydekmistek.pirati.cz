@@ -38,9 +38,9 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
-  - name: Mudr. Místní Dkotor
+  - name: Mgr. Petr Exner
  #   age: 49
-    profession: obvodní lékař
+ #   profession: obvodní lékař
  #   party: bez politické příslušnosti
  
  # - name: Mgr. Kateřina Fenclová
