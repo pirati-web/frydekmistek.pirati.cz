@@ -42,13 +42,12 @@ tail: # zbytek kandidatky
  #   age: 49
  #   profession: obvodní lékař
  #   party: bez politické příslušnosti
- 
- # - name: Mgr. Kateřina Fenclová
- # - name: Jan Bajgar
- # - name: Lenka Rodková
- # - name: Bc. Martin Jagoš
- # - name: Ladislava Skuplíková
- # - name: Bc. Denis Výkruta
+  - name: Mgr. Kateřina Fenclová
+  - name: Jan Bajgar
+  - name: Lenka Rodková
+  - name: Bc. Martin Jagoš
+  - name: Ladislava Skuplíková
+  - name: Bc. Denis Výkruta
  # - name: Jan Dluhoš
  # - name: Marek Chmelař
  # - name: Radoslav Piekielnicki
