@@ -1,8 +1,6 @@
 ---
 title: Kandidátka na radnici
 uid: radnice
-layout: page
-published: true
 
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
@@ -74,7 +72,7 @@ tail: # zbytek kandidatky
   - name: Jaroslav Ryšavý
 
  note: # poznámka pod kanidátku
- Zbytek kandidátky zveřejníme, v průběhu měsíce.
+     Zbytek kandidátky zveřejníme, v průběhu měsíce.
 ---
 
 
