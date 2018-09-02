@@ -43,40 +43,37 @@ tail: # zbytek kandidatky
  #   profession: obvodní lékař
  #   party: bez politické příslušnosti
  
-  - name: Mgr. Petr Exner
-    age: 49
-    profession: obvodní lékař
-    party: bez politické příslušnosti
-  # - name: Mgr. Kateřina Fenclová
-  # - name: Jan Bajgar
-  # - name: Lenka Rodková
-  # - name: Bc. Martin Jagoš
-  # - name: Ladislava Skuplíková
-  # - name: Bc. Denis Výkruta
-  # - name: Jan Dluhoš
-  # - name: Marek Chmelař
-  # - name: Radoslav Piekielnicki
-  # - name: Bc. Lubomír Brháček
-  # - name: Lukáš Mleczko
-  # - name: Leon Bílek
-  # - name: Bc. Miroslav Mašek
-  # - name: Kamil Rusnák
-  # - name: Mga. Tereza Strmisková
-  # - name: Mgr. Veronika Baranová
-  # - name: Bc. Mojmír Janečka
-  # - name: Věra Mleczková
-  # - name: Tomáš Mitrenga
-  # - name: Mgr. Barbora Macurová
-  # - name: Pavel Pospěch
-  # - name: Ing. Stanislav Ubík
-  # - name: Jaroslav Kožušník
-  # - name: Jakub Martinek
-  # - name: Lukáš Jaroš
-  # - name: Lukáš Popelář
-  # - name: Jaroslav Ryšavý
+ # - name: Mgr. Petr Exner
+ # - name: Mgr. Kateřina Fenclová
+ # - name: Jan Bajgar
+ # - name: Lenka Rodková
+ # - name: Bc. Martin Jagoš
+ # - name: Ladislava Skuplíková
+ # - name: Bc. Denis Výkruta
+ # - name: Jan Dluhoš
+ # - name: Marek Chmelař
+ # - name: Radoslav Piekielnicki
+ # - name: Bc. Lubomír Brháček
+ # - name: Lukáš Mleczko
+ # - name: Leon Bílek
+ # - name: Bc. Miroslav Mašek
+ # - name: Kamil Rusnák
+ # - name: Mga. Tereza Strmisková
+ # - name: Mgr. Veronika Baranová
+ # - name: Bc. Mojmír Janečka
+ # - name: Věra Mleczková
+ # - name: Tomáš Mitrenga
+ # - name: Mgr. Barbora Macurová
+ # - name: Pavel Pospěch
+ # - name: Ing. Stanislav Ubík
+ # - name: Jaroslav Kožušník
+ # - name: Jakub Martinek
+ # - name: Lukáš Jaroš
+ # - name: Lukáš Popelář
+ # - name: Jaroslav Ryšavý
 
- note: # poznámka pod kanidátku
-     Zbytek kandidátky zveřejníme, v průběhu měsíce.
+ #  note: # poznámka pod kanidátku
+ #     Zbytek kandidátky zveřejníme, v průběhu měsíce.
 ---
 
 
