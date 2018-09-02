@@ -39,11 +39,10 @@ tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
   - name: Mudr. Místní Dkotor
-    age: 49
+ #   age: 49
     profession: obvodní lékař
-    party: bez politické příslušnosti
+ #   party: bez politické příslušnosti
  
- # - name: Mgr. Petr Exner
  # - name: Mgr. Kateřina Fenclová
  # - name: Jan Bajgar
  # - name: Lenka Rodková
