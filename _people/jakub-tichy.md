@@ -22,3 +22,5 @@ Po gymnáziu studoval Informační technologie v Ostravě a Studia humanitní vz
 Posledních pět let je ředitelem městského kulturního zařízení ve Frýdku-Místku.
 
 Neprofesionálně se věnuje hudbě a divadlu.
+
+frydekmistek.pirati.cz/assets/img/people/
