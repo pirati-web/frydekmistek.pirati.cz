@@ -23,5 +23,5 @@ Posledních pět let je ředitelem městského kulturního zařízení ve Frýdk
 
 Neprofesionálně se věnuje hudbě a divadlu.
 
-<a href="frydekmistek.pirati.cz/assets/img/people/">Visit W3Schools</a>
+<a href="/frydekmistek.pirati.cz/assets/img/people/">Visit W3Schools</a>
 
