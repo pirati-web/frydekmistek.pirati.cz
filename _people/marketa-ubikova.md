@@ -6,7 +6,7 @@ category:
   - priznivci
 description: podnikatelka na rodičovské dovolené # zobrazuje se v lide
 profession: projektová manažerka
-# img: people/ppp.jpg # zakomentuj radek dokud není fotka
+img: people/marketa-ubikova.jpg # zakomentuj radek dokud není fotka
 mail:
   - marketa.ubikova@pirati.cz
 profiles:
