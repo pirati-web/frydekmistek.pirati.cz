@@ -7,7 +7,7 @@ category:
   - kontaktni_osoba
 description: Obchodní zástupce, designér # zobrazuje se v lide
 profession: provozovatel obchodu s lokálním designem
-# img: people/ppp.jpg # zakomentuj radek dokud není fotka
+img: people/leonard-varga.jpg # zakomentuj radek dokud není fotka
 candidateDescription: provozovatel obchodu s lokálním designem # zobrazuje se v komunalni-volby
 mail:
   - leonard.varga@pirati.cz
