@@ -6,7 +6,7 @@ category:
   - priznivci
 description: manažerka marketingu a pr # zobrazuje se v lide
 profession: manažerka marketingu a pr
-# img: people/ppp.jpg # zakomentuj radek dokud není fotka
+img: people/michaela-davidova.jpg # zakomentuj radek dokud není fotka
 # mail:
 #  - marketa.ubikova@pirati.cz
 profiles:
