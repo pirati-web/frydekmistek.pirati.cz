@@ -13,14 +13,13 @@ contentSize: default
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Zajámá vás co piráti dělají? Ozvěte se Jakubu Pirátovy nebo přijďte k nám
-na schůzi kterou pořádáme v XY.
 
-Chcete přístup k pirátskym systémum? Regitrujte se na nalodění. TODO odkaz.
+Přidejte se
 
-Financí dary můžete posílat na [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo naší MS poradtě se s XY
+Zajímá vás, co piráti dělají? Ozvěte se našemu krajskému koordinátorovi Jakubovi Dedkovi na jakub.dedek@pirati.cz.
 
+Můžete také přijít na veřejnou krajskou schůzi, kterou pořádáme každou první středu v měsíci v Ostravském Pirátském centru OPiCe.
 
-Strany našeho kraje jsou TODO.
+Finanční dary pro Českou Pirátskou stranu můžete posílat na dary.
 
+Webové stránky krajského sdružení najdete zde.
