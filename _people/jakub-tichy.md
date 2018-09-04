@@ -1,7 +1,9 @@
 ---
 uid: jakub.tichy
 name:     Jakub Tichý  	# běžně používáné jméno
-fullname: Jakub Tichý  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:
   - priznivci
 description: Ředitel Kultura F=M a divadla Aréna Ostrava # zobrazuje se v lide

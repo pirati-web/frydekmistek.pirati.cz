@@ -1,7 +1,9 @@
 ---
 uid: leonard.varga
 name:     Leonard Varga 	# běžně používáné jméno
-fullname: Leonard Varga  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:
   - clenove
   - kontaktni_osoba

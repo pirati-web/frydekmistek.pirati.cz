@@ -3,7 +3,10 @@ layout: contacts
 residence: yes #vyplňte pokud chcete přidat adresu nejbližšího pice
 ---
 
-## Přidejte se
+
+<div class="o-section-header o-section-header--indented">
+  <h1 class="t-h2-alt">Přidejte se</h1>
+</div>
 
 Zajímá vás, co piráti dělají? Ozvěte se našemu krajskému koordinátorovi Jakubovi Dedkovi na jakub.dedek@pirati.cz.
 
