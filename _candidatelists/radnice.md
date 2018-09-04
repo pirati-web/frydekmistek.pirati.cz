@@ -3,11 +3,7 @@ title: Kandidátka na radnici
 uid: radnice
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
-  uid: prvni.leader
-  age: 31
-  profession: knihovník
-  party: Piráti
-  description: expert na skoky # zobrazuje se v komunalni-volby
+  uid: jakub.tichy
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: mistni.predseda
