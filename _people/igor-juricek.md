@@ -6,7 +6,7 @@ category:
   - priznivci
 description: překladatel # zobrazuje se v lide
 profession: překladatel
-# img: people/ppp.jpg # zakomentuj radek dokud není fotka
+img: people/igor-juricek.jpg # zakomentuj radek dokud není fotka
 # mail:
 #  - marketa.ubikova@pirati.cz
 profiles:
