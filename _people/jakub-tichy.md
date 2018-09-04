@@ -8,7 +8,7 @@ category:
   - priznivci
 description: Ředitel Kultura F=M a divadla Aréna Ostrava # zobrazuje se v lide
 profession: ředitel divadla Aréna v Ostravě
-# img: people/ppp.jpg # zakomentuj radek dokud není fotka
+img: people/jakubTichy.png # zakomentuj radek dokud není fotka
 candidateDescription: ředitel divadla # zobrazuje se v komunalni-volby
 mail:
   - jakubtichy@yahoo.com
@@ -24,3 +24,5 @@ Po gymnáziu studoval Informační technologie v Ostravě a Studia humanitní vz
 Posledních pět let je ředitelem městského kulturního zařízení ve Frýdku-Místku.
 
 Neprofesionálně se věnuje hudbě a divadlu.
+
+

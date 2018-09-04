@@ -27,6 +27,7 @@ theme: jekyll-theme-pirati
 
 administrator:
   email: jitka.novotna@pirati.cz # mail kam pujdou chybove vystupy
+  email: jakub.petros.it@gmail.com
 
 organization:
   name: Pirátská strana Frýdek - Místek
@@ -43,10 +44,10 @@ organization:
   mapLink: https://mapy.cz/zakladni?x=18.3416929&y=49.6810111&z=12&source=muni&id=4753&q=frydek%20mistek
   redmineLink: https://redmine.pirati.cz/projects
 
-homepageTeaser:
-  display: true
-  link: /komunalni-volby/
-  title: Komunální volby 2018
+# homepageTeaser:
+#  display: true
+#  link: /komunalni-volby/
+#  title: Komunální volby 2018
 
 calendar:
   title: Krajský kalendář
@@ -57,18 +58,18 @@ facebook:
   profilePage: https://www.facebook.com/piratifrm
   appId: 1526197851008996
 
-twitter:
-  loadSDK: true
-  profile: PiratskaStrana
+#twitter:
+#  loadSDK: true
+#  profile: PiratskaStrana
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
 
-gplus:
-  profilePage: https://plus.google.com/u/0/+piratskastrana
+#gplus:
+#  profilePage: https://plus.google.com/u/0/+piratskastrana
 
-flicker:
-  profilePage: https://www.flickr.com/photos/pirati/
+#flicker:
+#  profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
   page: https://forum.pirati.cz/

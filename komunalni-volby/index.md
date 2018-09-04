@@ -6,7 +6,6 @@ candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
 
-Úvodní text. Např vysvětlení koalice, podpory.
+<!-- Úvodní text. Např vysvětlení koalice, podpory. --> 
 
-> "Vyhrajeme vobly", říká leader.
-
+> Základem svobodného státu je svobodná obec.
