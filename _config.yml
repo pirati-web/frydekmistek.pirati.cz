@@ -58,18 +58,18 @@ facebook:
   profilePage: https://www.facebook.com/piratifrm
   appId: 1526197851008996
 
-#twitter:
-#  loadSDK: true
-#  profile: PiratskaStrana
+twitter:
+  loadSDK: true
+  profile: PiratskaStrana
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
 
-#gplus:
-#  profilePage: https://plus.google.com/u/0/+piratskastrana
+gplus:
+  profilePage: https://plus.google.com/u/0/+piratskastrana
 
-#flicker:
-#  profilePage: https://www.flickr.com/photos/pirati/
+flicker:
+  profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
   page: https://forum.pirati.cz/
@@ -131,6 +131,18 @@ defaults:   # defaults values for collection scope
 
 emptyArray: []
 
+# Nastavení zobrazení tabulky kontaktů.
+# Lze využít:
+# 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
+# 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
+contactSummaryItems:
+  - type: organizationEmail
+  - type: organizationRedmineLink
+  - type: organizationPhone
+  - type: organizationTransparentAccount
+    includeMoreLink: true
+  - type: organizationDataBox
+  - type: piratiRootWebsite
 
 assets:
   source_maps: false
