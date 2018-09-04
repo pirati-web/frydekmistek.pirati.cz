@@ -1,11 +1,11 @@
 ---
 layout: communal-elections
-title: Komunální volby 2018
+title: Komunální volby v Praze
 campaignCategoryUid: praha2018
 candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
+Úvodní text např. vysvětlení koalice, podpory.
 
-<!-- Úvodní text. Např vysvětlení koalice, podpory. --> 
+> "Vyhrajeme volby," říká leader.
 
-> Základem svobodného státu je svobodná obec.

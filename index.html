@@ -1,27 +1,18 @@
 ---
 layout: default
-rbar: fb, calendar
+rbar: 
+   - fb
+   - calendar
 ---
 
-{% if site.homepageBanner.display %}
-<div class="row c-hp-banner">
-  <div class="small-12 columns">
-    <a href="{{ site.homepageBanner.link }}" title="{{ site.homepageBanner.title }}">
-      {% capture img %}{% asset '{{ site.homepageBanner.image.default }}' magick:resize='1135x' @path %}{% endcapture %}
-      {% if site.homepageBanner.breakpoint %}
-        <picture>
-          <source media="(min-width: {{ site.homepageBanner.breakpoint }}px)" srcset="{{ img }}">
-          <img src="{% asset '{{ site.homepageBanner.image.mobile }}' magick:resize='{{ site.homepageBanner.breakpoint +"px" }}' @path %}" alt="{{ site.homepageBanner.title }}">
-        </picture>
-      {% else %}
-        <img src="{{ img }}" alt="{{ site.homepageBanner.title }}">
-      {% endif %}
-    </a>
-  </div>
-</div>
-{% endif %}
+{% include homepage/banner.html 
+   link='/komunalni-volby/'
+   title='Komunální volby 2018'
+   default='banner-default.jpg'
+   mobile='banner-mobile.jpg'
+   breakpoint=640
+%}
 
- 
 <div class="row">
   <div class="medium-12 large-8 columns">
     <section class="o-section o-section--spaceBot">
@@ -37,16 +28,6 @@ rbar: fb, calendar
         </div>
       </div>
     </section>
-    <div>
-  <h2>Volební program </h2>
-  <ul>
-    <li> <h3>Úřady digitálně a bez front</h3></li>
-    <li> <h3>Rozpočet města pod kontrolou</h3></li>
-    <li> <h3>Město, které s vámi mluví a poslouchá</h3></li>
-    <li> <h3>Pěšky, na kole i MHD rychle a bezpečně</h3></li>
-    <li> <h3>Aby nikdo nezůstal na vedlejší koleji</h3></li>
-  </ul>
-</div>
   </div>
   {% if page.rbar %}
   <div class="medium-12 large-4 columns">
@@ -54,4 +35,3 @@ rbar: fb, calendar
   </div>
   {% endif %}
 </div>
-
