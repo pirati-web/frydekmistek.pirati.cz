@@ -11,7 +11,7 @@ description: >-
   Web místní buňky Pirátů z Frýdku - Místku
 description: >-
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, Frýdek-Místek, piráti z Frýdku, piráti z Místku,
+keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, Frýdek-Místek, piráti z Frýdku, piráti z Místku, piráti Frýdek-Místek, Frýdek-Místek piráti
 
 administrator:
   email: jakub.petros.it@gmail.com
@@ -58,18 +58,18 @@ facebook:
   profilePage: https://www.facebook.com/piratifrm
   appId: 1526197851008996
 
-twitter:
-  loadSDK: true
-  profile: PiratskaStrana
+# twitter:
+#  loadSDK: true
+#  profile: PiratskaStrana
 
 instagram:
-  profilePage: https://www.instagram.com/pirati.cz/
+  profilePage: https://www.instagram.com/piratifm/
 
-gplus:
-  profilePage: https://plus.google.com/u/0/+piratskastrana
+# gplus:
+#  profilePage: https://plus.google.com/u/0/+piratskastrana
 
-flicker:
-  profilePage: https://www.flickr.com/photos/pirati/
+# flicker:
+#  profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
   page: https://forum.pirati.cz/
