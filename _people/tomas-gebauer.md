@@ -5,7 +5,7 @@ category:
   - priznivci
 description: lesní # zobrazuje se v lide
 profession: lesní
-# img: people/ppp.jpg # zakomentuj radek dokud není fotka
+img: people/tomas-gebauer.jpg # zakomentuj radek dokud není fotka
 # mail:
 #  - marketa.ubikova@pirati.cz
 profiles:
