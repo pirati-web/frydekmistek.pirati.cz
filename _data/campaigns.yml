@@ -5,6 +5,6 @@
   title: Volby 2018     # title of the campaign group
   campaigns:
     - title: Program na radnici   # individual campaigns within the group
-      categoryUid: praha2018
+      categoryUid: fm2018
     - title: Senát
       categoryUid: senat
