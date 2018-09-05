@@ -7,11 +7,11 @@ approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 # garant: jakub.pirat
 perex: >
   <ol>
-    <li><h3>Otevřená a transparentní radnice</h3></li>
-    <li><h3>Všichni na jedné lodi</h3></li>
-    <li><h3>Atraktivní místo pro život</h3></li>
-    <li><h3>Digitální smartCity</h3></li>
-    <li><h3>Masterplán pro 2030</h3></li>
+    <h4><li>Otevřená a transparentní radnice</li></h4>
+    <h4><li>Všichni na jedné lodi</li></h4>
+    <h4><li>Atraktivní místo pro život</li></h4>
+    <h4><li>Digitální smartCity</li></h4>
+    <h4><li>Masterplán pro 2030</li></h4>
   </ol>
 order: 1
 ---
