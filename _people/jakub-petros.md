@@ -5,7 +5,7 @@ category:
   - priznivci
 description: junior network engineer # zobrazuje se v lide
 profession: junior network engineer
-# img: people/ppp.jpg # zakomentuj radek dokud není fotka
+img: people/jakub-petros.jpg # zakomentuj radek dokud není fotka
 # mail:
 #  - marketa.ubikova@pirati.cz
 profiles:
