@@ -5,7 +5,7 @@ category:
   - priznivci
 description: inženýr automatizace # zobrazuje se v lide
 profession: inženýr automatizace
-# img: people/ppp.jpg # zakomentuj radek dokud není fotka
+img: people/jan-damek.jpg # zakomentuj radek dokud není fotka
 # mail:
 #  - marketa.ubikova@pirati.cz
 profiles:
