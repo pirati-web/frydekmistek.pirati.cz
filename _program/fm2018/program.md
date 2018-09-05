@@ -7,38 +7,10 @@ approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 # garant: jakub.pirat
 perex: >
   1.	Otevřená a transparentní radnice
--	Úřad, který s vámi mluví. Založíme odbor komunikace s veřejnosti.
--	Je to i vaše miliarda (a půl). Rozpočet města i všech městských příspěvkových organizací bude veřejný a rozklikávací. Stejně tak všechny funkce v dozorčích radách a orgánech těchto společností budou veřejné a snadno dohledatelné.
--	Vyčleníme část městských peněz k tzv. participativnímu rozpočtování. Lidé budou sami navrhovat projekty a rozhodovat v hlasování o rozdělení financí.
--	Zprůhledníme veřejné zakázky, granty, dotace, budeme usilovat o vyrovnaný rozpočet.
-
-2.	Všichni na jedné lodi
--	Myslíme na lidi v exekuci. Je jich u nás ve městě přes 10 %. Zřídíme bezplatnou dluhovou poradnu. 
--	Nastavíme koncepční bytovou politiku, která bude podporovat mladé rodiny a rodiče samoživitele. Budeme zvyšovat podíl městských bytů.
--	Otevřeme školní jídelny seniorům
--	Zapojíme občany do plánování a rozvoje města prostřednictví komunitního plánování.
--	Nejen lidé, ale i domácí mazlíčci. Snížíme poplatek za psa na polovinu. Zřídíme oplocená psí hřiště, vybudujeme moderní a bezpečný městský útulek pro zvířata.
-
-3.	Atraktivní místo pro život
--	Chceme posilovat silné stránky města - nábřeží řek, krásná náměstí, kulturu ve městě, parky. Minimálně 1% z rozpočtu půjde na umění.
--	Město, které nesmrdí. Historická centra měst nesmí být obří parkoviště. Tomu pomůže kvalitní  MHD zdarma, tak i budování nových a bezpečných tras pro pěší i cyklisty. Budeme hledat progresivní řešení parkování na sídlištích.
--	Frýdek-Místek bude příkladem inovativních forem vzdělávání
--	Vnímáme jako velký problém nedostupnost zubní péče a budeme hledat řešení.
-
-4.	Digitální smartCity
--	Proč stojíme fronty na úřadech, když máme internet?
--	Analýzou dat zefektivníme nakládaní s energiemi, materiálem i pohyb po městě. 
--	Problém ve veřejném prostoru bude každý moct hlásit prostřednictvím aplikace.
--	Zasadíme se o vybudování podnikatelského inkubátoru, iniciujeme vznik co-workingového centra. Dáme šanci start-upům.
--	Nabídneme  pravidelná školení v informační i finanční gramotnosti. 
--	Ve 21. století by měl být pro každého dostupný superrychlý internet přes optické vlákno. Wi-Fi ve všech veřejných prostorech je samozřejmostí.
-
-5.	Masterplán pro 2030
--	Aby jsme se mohli rozvíjet, je třeba mít plán na déle než jedno volební období
--	Stavba obchvatu je pro město velká urbanizační příležitost, využijme ji a obnovme původní síť ulic, využijme brownfieldy.
--	Plánování svěříme renomovaným odborníkům a architektům.
--	Budeme usilovat o přítomnost vysoké školy ve městě.
-
+  2.	Všichni na jedné lodi
+  3.	Atraktivní místo pro život
+  4.	Digitální smartCity
+  5.	Masterplán pro 2030
 order: 1
 ---
 ## Otevřená a transparentní radnice
