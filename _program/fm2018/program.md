@@ -6,11 +6,13 @@ campaignGroupUid: volby-2018
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 # garant: jakub.pirat
 perex: >
-  1.	Otevřená a transparentní radnice
-  2.	Všichni na jedné lodi
-  3.	Atraktivní místo pro život
-  4.	Digitální smartCity
-  5.	Masterplán pro 2030
+  <ol>
+    <li>Otevřená a transparentní radnice</li>
+    <li>Všichni na jedné lodi</li>
+    <li>Atraktivní místo pro život</li>
+    <li>Digitální smartCity</li>
+    <li>Masterplán pro 2030</li>
+  </ol>
 order: 1
 ---
 ## Otevřená a transparentní radnice
