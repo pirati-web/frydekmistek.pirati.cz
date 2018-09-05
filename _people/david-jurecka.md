@@ -8,7 +8,7 @@ category:
   - priznivci
 description: průvodce # zobrazuje se v lide
 profession: průvodce
-# img: people/ppp.jpg # zakomentuj radek dokud není fotka
+img: people/david-jurecka.jpg # zakomentuj radek dokud není fotka
 # mail:
 #  - marketa.ubikova@pirati.cz
 profiles:
