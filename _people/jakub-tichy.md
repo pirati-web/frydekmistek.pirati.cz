@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - priznivci
-description: Ředitel Kultura F=M a divadla Aréna Ostrava # zobrazuje se v lide
+description: ředitel divadla Aréna v Ostravě # zobrazuje se v lide
 profession: ředitel divadla Aréna v Ostravě
 img: people/jakub-tichy.jpg # zakomentuj radek dokud není fotka
 candidateDescription: ředitel divadla # zobrazuje se v komunalni-volby
