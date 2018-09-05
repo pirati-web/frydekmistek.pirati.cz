@@ -8,11 +8,11 @@ category:
   - clenove
 description: podnikatelka na rodičovské dovolené # zobrazuje se v lide
 profession: projektová manažerka
-img: people/marketa-ubikova.jpg # zakomentuj radek dokud není fotka
-mail:
+# img: people/marketa-ubikova.jpg # zakomentuj radek dokud není fotka
+# mail:
   - marketa.ubikova@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/piratifrm/  # pokud nema, staci smazat tuto radku
+  facebook: https://www.facebook.com/marketa.ubikova  # pokud nema, staci smazat tuto radku
   # googleplus: https://plus.google.com/+uzivatel.na.googleplus
   # twitter: https://twitter.com/uzivatel.na.twitteru
 ---
