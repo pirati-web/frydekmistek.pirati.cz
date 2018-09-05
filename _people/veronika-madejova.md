@@ -1,6 +1,6 @@
 ---
 uid: veronika.madejova
-name:     Markéta Ubíková  	# běžně používáné jméno
+name:     Veronika Madejová  	# běžně používáné jméno
 titles:
   before: Mgr.
   after:
@@ -8,7 +8,7 @@ category:
   - priznivci
 description: projektová manažerka # zobrazuje se v lide
 profession: projektová manažerka
-# img: people/ppp.jpg # zakomentuj radek dokud není fotka
+img: people/veronika-madejova.jpg # zakomentuj radek dokud není fotka
 # mail:
 #  - marketa.ubikova@pirati.cz
 profiles:
