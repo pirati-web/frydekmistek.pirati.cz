@@ -8,7 +8,7 @@ category:
   - priznivci
 description: programátor # zobrazuje se v lide
 profession: programátor
-# img: people/ppp.jpg # zakomentuj radek dokud není fotka
+img: people/dominik-pecuch.jpg # zakomentuj radek dokud není fotka
 # mail:
 #  - marketa.ubikova@pirati.cz
 profiles:
