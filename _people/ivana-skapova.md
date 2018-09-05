@@ -8,7 +8,7 @@ category:
   - priznivci
 description: stomatolog # zobrazuje se v lide
 profession: stomatolog
-# img: people/ppp.jpg # zakomentuj radek dokud není fotka
+img: people/ivana-skapova.jpg # zakomentuj radek dokud není fotka
 # mail:
 #  - marketa.ubikova@pirati.cz
 profiles:
