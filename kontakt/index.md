@@ -32,4 +32,5 @@ Tímto se obracíme na vás, naše stoupence a voliče, abyste nám pomohli roz�
   <li>Pomozte nám rozdat a roznést zásoby Pirátských listů mezi lidi a do schránek</li>
   <li>Umístěte náš banner nebo plakát na svůj plot nebo do své provozovny</li>
 </ul>
+
 Finanční dary pro Českou Pirátskou stranu můžete posílat na dary.
