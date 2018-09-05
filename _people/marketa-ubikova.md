@@ -5,7 +5,7 @@ titles:
   before: Mgr.
   after:
 category:
-  - priznivci
+  - clenove
 description: podnikatelka na rodičovské dovolené # zobrazuje se v lide
 profession: projektová manažerka
 img: people/marketa-ubikova.jpg # zakomentuj radek dokud není fotka
