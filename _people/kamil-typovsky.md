@@ -5,7 +5,7 @@ category:
   - priznivci
 description: dramaturg # zobrazuje se v lide
 profession: dramaturg
-# img: people/ppp.jpg # zakomentuj radek dokud není fotka
+img: people/kamil-typovsky.jpg # zakomentuj radek dokud není fotka
 # mail:
 #  - marketa.ubikova@pirati.cz
 profiles:
