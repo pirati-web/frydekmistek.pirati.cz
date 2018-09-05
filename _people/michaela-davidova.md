@@ -5,7 +5,7 @@ titles:
   before: Mgr.
   after:
 category:
-  - priznivci
+  - clenove
 description: manažerka marketingu a pr # zobrazuje se v lide
 profession: manažerka marketingu a pr
 img: people/michaela-davidova.jpg # zakomentuj radek dokud není fotka
