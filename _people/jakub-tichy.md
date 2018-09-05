@@ -21,7 +21,7 @@ profiles:
 
 Po gymnáziu studoval Informační technologie v Ostravě a Studia humanitní vzdělanosti v Praze. Poté pracoval v univerzitní knihovně, jako reportér, marketér atd.
 
-Posledních pět let je ředitelem městského kulturního zařízení ve Frýdku-Místku.
+Posledních pět let byl ředitelem městského kulturního zařízení ve Frýdku-Místku a nyní vede divadlo Komorní scéna Aréna.
 
 Neprofesionálně se věnuje hudbě a divadlu.
 
