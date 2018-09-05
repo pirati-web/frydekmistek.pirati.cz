@@ -8,7 +8,7 @@ category:
   - priznivci
 description: analytik, jednatel firmy # zobrazuje se v lide
 profession: analytik, jednatel firmy
-# img: people/ppp.jpg # zakomentuj radek dokud není fotka
+img: people/martin-skapa.jpg # zakomentuj radek dokud není fotka
 # mail:
 #  - marketa.ubikova@pirati.cz
 profiles:
