@@ -5,7 +5,7 @@ category:
   - priznivci
 description: herec # zobrazuje se v lide
 profession: herec
-# img: people/ppp.jpg # zakomentuj radek dokud není fotka
+img: people/dominik-drmela.jpg # zakomentuj radek dokud není fotka
 # mail:
 #  - marketa.ubikova@pirati.cz
 profiles:
