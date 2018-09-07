@@ -14,8 +14,6 @@ perex: >
   </ol>
 order: 1
 ---
-## Otevřená a transparentní radnice
-
 Takto jsme pojmenovali náš první programový okruh, protože zde vidíme největší nedostatky i prapůvod všech ostatních návazných problémů. Zároveň je uzavřenost a neprůhlednost radnice naší hlavní motivací, proč jsme se rozhodli pod pirátskou vlajkou do těchto voleb vstoupit.
 
 Město se musí chovat způsobem řádného hospodáře a lidé musí mít právo tuto povinnost kontrolovat. Veškeré výdaje města musí být veřejně identifikovatelné, a to od rozpočtového určení až ke konkrétním smlouvám a fakturám. Za tímto účelem budeme prosazovat webovou aplikaci rozklikávací rozpočet, kde by bylo možné proces sledovat a v jakékoli fázi připomínkovat. Stejný systém by měl být uplatněn v městských firmách a příspěvkových organizacích, jako jsou sportoviště města, Frýdecká skládka nebo Technické služby.
