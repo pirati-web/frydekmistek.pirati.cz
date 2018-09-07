@@ -7,10 +7,10 @@ approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 # garant: jakub.pirat
 perex: >
   <ul type"disc">
-    <h4><li>Úřad, který s vámi mluví. Založíme odbor komunikace s veřejnosti.</li></h4>
-    <h4><li>Je to i vaše miliarda (a půl). Rozpočet města i všech městských příspěvkových organizací bude veřejný a rozklikávací. Stejně tak všechny funkce v dozorčích radách a orgánech těchto společností budou veřejné a snadno dohledatelné.</li></h4>
-    <h4><li>Vyčleníme část městských peněz k tzv. participativnímu rozpočtování. Lidé budou sami navrhovat projekty a rozhodovat v hlasování o rozdělení financí.</li></h4>
-    <h4><li>Zprůhledníme veřejné zakázky, granty, dotace, budeme usilovat o vyrovnaný rozpočet.</li></h4>
+    <h5><li>Úřad, který s vámi mluví. Založíme odbor komunikace s veřejnosti.</li></h5>
+    <h5><li>Je to i vaše miliarda (a půl). Rozpočet města i všech městských příspěvkových organizací bude veřejný a rozklikávací. Stejně tak všechny funkce v dozorčích radách a orgánech těchto společností budou veřejné a snadno dohledatelné.</li></h5>
+    <h5><li>Vyčleníme část městských peněz k tzv. participativnímu rozpočtování. Lidé budou sami navrhovat projekty a rozhodovat v hlasování o rozdělení financí.</li></h5>
+    <h5><li>Zprůhledníme veřejné zakázky, granty, dotace, budeme usilovat o vyrovnaný rozpočet.</li></h5>
   </ul>
 order: 1
 ---
