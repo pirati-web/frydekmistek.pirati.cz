@@ -2,6 +2,7 @@
 title: Volební program
 layout: page
 published: true
+campaignCategoryUid: praha2018
 style: portrets
 description: 'Dlouhodobá koncepce: Tábor jako moderní město, které se dívá do budoucnosti'
 keywords: program, piráti, frýdek-místek, vize
