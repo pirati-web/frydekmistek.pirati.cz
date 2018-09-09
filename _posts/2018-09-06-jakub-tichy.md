@@ -6,7 +6,7 @@ layout: post
 title: Lídr Pirátů ve Frýdku Místku Jakub Tichý - Je to i vaše miliarda!
 author: Jakub Tichý
 authorId: jakub.tichy    # uid nekoho z _people (nepoviné)
-image: posts/FM_prohlaseni.jpg
+image: people/jakub-tichy.jpg
 ---
 První a nejdůležitější otázka je: Proč? Proč vůbec někam kandidovat? Dlouho sleduji politickou scénu ve Frýdku-Místku a zdá se mi, jako by si velká část kandidátů jiných stran a hnutí na tuto otázku buď neodpovídala vůbec, anebo odpověď spojovala se slovy jako prestiž, lepší osobní kontakty, důležitost. Zároveň se stačí podívat do libovolné internetové diskuse vztahující se k politice, abyste zjistili, že každý politicky angažovaný člověk se v očích mnoha diskutujících stává automaticky darebákem a zlodějem, kterého se patří, když už ne rovnou pověsit, tak přinejmenším zavřít.
 
