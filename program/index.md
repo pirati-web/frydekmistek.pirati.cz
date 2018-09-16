@@ -16,7 +16,7 @@ keywords: program, piráti, frýdek-místek, vize
   <h5><li>Budeme usilovat o vyrovnaný rozpočet</li></h5>
 </ul>
 
-### [Více](/program/transparentni-radnice/index.html)
+<h3> [Více](/program/transparentni-radnice/index.html) </h3>
 <br>
 <br>
 
