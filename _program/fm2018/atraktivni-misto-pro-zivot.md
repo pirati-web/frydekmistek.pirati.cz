@@ -8,9 +8,10 @@ approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 perex: >
   <ul type"disc">
     <h5><li>Chceme posilovat silné stránky města - nábřeží řek, krásná náměstí, kulturu ve městě, parky. Minimálně 1% z rozpočtu půjde na umění.</li></h5>
-    <h5><li>Město, které nesmrdí. Historická centra měst nesmí být obří parkoviště. Tomu pomůže kvalitní MHD zdarma, tak i budování nových a bezpečných tras pro pěší i cyklisty. Budeme hledat progresivní řešení parkování na sídlištích.</li></h5>
+    <h5><li>Město, které nesmrdí. Historická centra měst nesmí být obří parkoviště. Tomu pomůže kvalitní  MHD zdarma, tak i budování nových a bezpečných tras pro pěší i cyklisty. Budeme hledat progresivní řešení parkování na sídlištích.</li></h5>
     <h5><li>Frýdek-Místek bude příkladem inovativních forem vzdělávání.</li></h5>
-    <h5><li>Vnímáme jako velký problém nedostupnost zubní péče a budeme hledat řešení.</li></h5>
+    <h5><li>Postavíme skatepark, zřídíme oplocená psí hřiště, pump track, komunitní zahrady, vybudujeme moderní a bezpečný městský útulek pro zvířata.</li></h5>
+    <h5><li>Nedostatek zubních lékařů ve městě vnímáme jako velký problém a budeme hledat řešení.</li></h5>
   </ul>
 order: 3
 ---
