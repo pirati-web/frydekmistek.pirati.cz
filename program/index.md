@@ -21,7 +21,7 @@ keywords: program, piráti, frýdek-místek, vize
 <br>
 
 ## 2. Všichni na jedné lodi
-
+<br>
 <ul>
   <h5><li>Myslíme na lidi v exekuci. Je jich u nás ve městě přes 10 %. Zřídíme bezplatnou dluhovou poradnu.</li></h5>
   <h5><li>Nastavíme koncepční bytovou politiku, která bude podporovat mladé rodiny a rodiče samoživitele. Budeme zvyšovat podíl městských bytů.</li></h5>
@@ -31,9 +31,10 @@ keywords: program, piráti, frýdek-místek, vize
 </ul>
 
 ### [Více](/program/na-jedne-lodi/index.html)
-
+<br>
+<br>
 ## 3. Atraktivní místo pro život
-
+<br>
 <ul>
     <h5><li>Chceme posilovat silné stránky města - nábřeží řek, krásná náměstí, kulturu ve městě, parky. Minimálně 1% z rozpočtu půjde na umění.</li></h5>
     <h5><li>Město, které nesmrdí. Historická centra měst nesmí být obří parkoviště. Tomu pomůže kvalitní  MHD zdarma, tak i budování nových a bezpečných tras pro pěší i cyklisty. Budeme hledat progresivní řešení parkování na sídlištích.</li></h5>
@@ -43,9 +44,10 @@ keywords: program, piráti, frýdek-místek, vize
 </ul>
 
 ### [Více](/program/atraktivni-misto-pro-zivot/index.html)
-
+<br>
+<br>
 ## 4. Digitální smartCity
-
+<br>
 <ul>
   <h5><li>Proč stojíme fronty na úřadech, když máme internet?</li></h5> 
   <h5><li>Analýzou dat zefektivníme nakládaní s energiemi, materiálem i pohyb po městě.</li></h5>
@@ -56,7 +58,8 @@ keywords: program, piráti, frýdek-místek, vize
 </ul>
 
 ### [Více](/program/digitalni-smartcity/index.html)
-
+<br>
+<br>
 ## 5. Masterplán 2030
 
 <ul>
