@@ -6,8 +6,8 @@ style: portrets
 description: 'Dlouhodobá koncepce: Tábor jako moderní město, které se dívá do budoucnosti'
 keywords: program, piráti, frýdek-místek, vize
 ---
-## Otevřená a transparentní radnice
-
+## 1. Otevřená a transparentní radnice
+<div></div>
 <ul>
   <h5><li>Úřad, který s vámi mluví. Založíme odbor komunikace s veřejnosti.</li></h5>
   <h5><li>Je to i vaše miliarda (a půl). Rozpočet města i všech městských příspěvkových organizací bude veřejný a rozklikávací. Stejně tak všechny funkce v dozorčích radách a orgánech těchto společností budou veřejné a snadno dohledatelné.</li></h5>
@@ -18,8 +18,9 @@ keywords: program, piráti, frýdek-místek, vize
 
 ### [Více](/program/transparentni-radnice/index.html)
 
+<div></div>
 
-## Všichni na jedné lodi
+## 2. Všichni na jedné lodi
 
 <ul>
   <h5><li>Myslíme na lidi v exekuci. Je jich u nás ve městě přes 10 %. Zřídíme bezplatnou dluhovou poradnu.</li></h5>
@@ -31,7 +32,7 @@ keywords: program, piráti, frýdek-místek, vize
 
 ### [Více](/program/na-jedne-lodi/index.html)
 
-## Atraktivní místo pro život
+## 3. Atraktivní místo pro život
 
 <ul>
     <h5><li>Chceme posilovat silné stránky města - nábřeží řek, krásná náměstí, kulturu ve městě, parky. Minimálně 1% z rozpočtu půjde na umění.</li></h5>
@@ -43,7 +44,7 @@ keywords: program, piráti, frýdek-místek, vize
 
 ### [Více](/program/atraktivni-misto-pro-zivot/index.html)
 
-## Digitální smartCity
+## 4. Digitální smartCity
 
 <ul>
   <h5><li>Proč stojíme fronty na úřadech, když máme internet?</li></h5> 
@@ -56,7 +57,7 @@ keywords: program, piráti, frýdek-místek, vize
 
 ### [Více](/program/digitalni-smartcity/index.html)
 
-## Masterplán 2030
+## 5. Masterplán 2030
 
 <ul>
   <h5><li>Aby jsme se mohli rozvíjet, je třeba mít plán na déle než jedno volební období.</li></h5>
