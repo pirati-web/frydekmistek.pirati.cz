@@ -8,10 +8,10 @@ approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 perex: >
   <ul type"disc">
     <h5><li>Proč stojíme fronty na úřadech, když máme internet?</li></h5> 
-    <h5><li>Analýzou dat zefektivníme nakládaní s energiemi, materiálem i pohyb po městě. </li></h5>
-    <h5><li>Problém ve veřejném prostoru bude moct každý hlásit prostřednictvím aplikace.</li></h5>
-    <h5><li>Zasadíme se o vybudování podnikatelského inkubátoru a iniciujeme vznik co-workingového centra. Dáme šanci start-upům.</li></h5>
-    <h5><li>Nabídneme pravidelná školení v informační i finanční gramotnosti. </li></h5>
+    <h5><li>Analýzou dat zefektivníme nakládaní s energiemi, materiálem i pohyb po městě.</li></h5>
+    <h5><li>Problém ve veřejném prostoru bude každý moct hlásit prostřednictvím aplikace.</li></h5>
+    <h5><li>Zasadíme se o vybudování podnikatelského inkubátoru, iniciujeme vznik co-workingového centra. Dáme šanci start-upům.</li></h5>
+    <h5><li>Nabídneme  pravidelná školení v informační i finanční gramotnosti.</li></h5>
     <h5><li>Ve 21. století by měl být pro každého dostupný superrychlý internet přes optické vlákno. Wi-Fi ve všech veřejných prostorech je samozřejmostí.</li></h5>
   </ul>
 order: 4
