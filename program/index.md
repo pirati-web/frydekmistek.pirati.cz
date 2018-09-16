@@ -33,6 +33,7 @@ keywords: program, piráti, frýdek-místek, vize
 ### [Více](/program/na-jedne-lodi/index.html)
 <br>
 <br>
+
 ## 3. Atraktivní místo pro život
 <br>
 <ul>
@@ -46,6 +47,7 @@ keywords: program, piráti, frýdek-místek, vize
 ### [Více](/program/atraktivni-misto-pro-zivot/index.html)
 <br>
 <br>
+
 ## 4. Digitální smartCity
 <br>
 <ul>
@@ -60,6 +62,7 @@ keywords: program, piráti, frýdek-místek, vize
 ### [Více](/program/digitalni-smartcity/index.html)
 <br>
 <br>
+
 ## 5. Masterplán 2030
 
 <ul>
