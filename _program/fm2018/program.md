@@ -26,7 +26,7 @@ Chceme umožnit lidem, aby se mohli aktivně podílet na správě města, proto�
 Zajistíme funkční systém podávání podnětů občanů směrem ke správě města a především zpětnou vazbu, aby byl občan informován o krocích, které se v dané věci dějí a dít budou. Komplexní mobilní aplikace a webové stránky umožní nejen zobrazit vlastní oznámení, ale i podpořit ostatní. Zřídíme odbor komunikace s veřejnosti a otevřeme radniční média.
 Podklady pro jednání zastupitelstva musí být s dostatečným předstihem dostupné na internetu, aby se lidé na jednání mohli připravit. Dotace a granty příspěvkovým organizacím města musí mít jasné, férové a stabilní podmínky.
 
-[Více](/program/transparentni-radnice/)
+[Více](/program/transparentni-radnice/index.html)
 
 ## Všichni na jedné lodi
 
