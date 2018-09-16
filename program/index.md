@@ -7,7 +7,7 @@ description: 'Dlouhodobá koncepce: Tábor jako moderní město, které se dív�
 keywords: program, piráti, frýdek-místek, vize
 ---
 ## 1. Otevřená a transparentní radnice
-<div></div>
+<br>
 <ul>
   <h5><li>Úřad, který s vámi mluví. Založíme odbor komunikace s veřejnosti.</li></h5>
   <h5><li>Je to i vaše miliarda (a půl). Rozpočet města i všech městských příspěvkových organizací bude veřejný a rozklikávací. Stejně tak všechny funkce v dozorčích radách a orgánech těchto společností budou veřejné a snadno dohledatelné.</li></h5>
@@ -17,8 +17,8 @@ keywords: program, piráti, frýdek-místek, vize
 </ul>
 
 ### [Více](/program/transparentni-radnice/index.html)
-
-<div></div>
+<br>
+<br>
 
 ## 2. Všichni na jedné lodi
 
