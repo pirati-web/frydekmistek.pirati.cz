@@ -18,6 +18,7 @@ Zajistíme funkční systém podávání podnětů občanů směrem ke správě 
 Podklady pro jednání zastupitelstva musí být s dostatečným předstihem dostupné na internetu, aby se lidé na jednání mohli připravit. Dotace a granty příspěvkovým organizacím města musí mít jasné, férové a stabilní podmínky.
 
 [Více](/program/transparentni-radnice/index.md)
+[Více](/_program/fm2018/transparentni-radnice.md)
 
 ## Všichni na jedné lodi
 
