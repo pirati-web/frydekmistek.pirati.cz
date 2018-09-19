@@ -5,10 +5,10 @@
 # technické nastavení
 #
 
-title: Pirátská strana | FRÝDEK MÍSTEK
+title: Pirátská strana | FRÝDEK-MÍSTEK
 email: leonard.varga@pirati.cz
 description: >- 
-  Web místní buňky Pirátů z Frýdku - Místku
+  Web místní buňky Pirátů z Frýdku-Místku
 description: >-
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, Frýdek-Místek, piráti z Frýdku, piráti z Místku, piráti Frýdek-Místek, Frýdek-Místek piráti
@@ -17,8 +17,8 @@ administrator:
   email: jakub.petros.it@gmail.com
 
 organization:
-  name: Pirátská strana Frýdek - Místek
-  shortName: Frýdek - Místek
+  name: Pirátská strana Frýdek-Místek
+  shortName: Frýdek-Místek
   contactUid: leonard.varga
   email: leonard.varga@pirati.cz
   phone: +420 774 837 566
