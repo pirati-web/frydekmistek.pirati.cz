@@ -9,7 +9,7 @@ keywords: program, piráti, frýdek-místek, vize
 ## 1. Otevřená a transparentní radnice
 <br>
 <ul>
-  <h5><li>Úřad, který s vámi mluví. Založíme odbor komunikace s veřejnosti.</li></h5>
+  <h5><li>Úřad, který s vámi mluví. Založíme odbor komunikace s veřejností.</li></h5>
   <h5><li>Je to i vaše miliarda (a půl). Rozpočet města i všech městských příspěvkových organizací bude veřejný a rozklikávací. Stejně tak všechny funkce v dozorčích radách a orgánech těchto společností budou veřejné a snadno dohledatelné.</li></h5>
   <h5><li>Vyčleníme část městských peněz k tzv. participativnímu rozpočtování. Lidé budou sami navrhovat projekty a rozhodovat v hlasování o rozdělení financí.</li></h5>
   <h5><li>Zprůhledníme veřejné zakázky, granty, dotace.</li></h5>
