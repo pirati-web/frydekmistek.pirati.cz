@@ -66,7 +66,7 @@ keywords: program, piráti, frýdek-místek, vize
 ## 5. Masterplán 2030
 
 <ul>
-  <h5><li>Aby jsme se mohli rozvíjet, je třeba mít plán na déle než jedno volební období.</li></h5>
+  <h5><li>Abychom se mohli rozvíjet, je třeba mít plán na déle než jedno volební období.</li></h5>
   <h5><li>Stavba obchvatu je pro město velká urbanizační příležitost, využijme ji a obnovme původní síť ulic, najděme nové využití pro brownfieldy.</li></h5>
   <h5><li>Plánování svěříme renomovaným odborníkům a architektům.</li></h5>
   <h5><li>Budeme usilovat o přítomnost vysoké školy ve městě.</li></h5>
