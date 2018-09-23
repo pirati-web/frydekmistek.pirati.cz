@@ -24,4 +24,4 @@ Frýdek-Místek  je líhní chytrých a nadaných lidí. Jen jim město, podle n
 
 Nabídneme podporu všem, kdo projeví zájem. Reagujeme na aktuální kauzy (jak se vypořádat s EET, školení GDPR a další). Budeme pořádat pravidelné kurzy zdarma v oblasti finanční gramotnosti a informačních technologií. Velkou výzvou moderního světa jsou tzv. fake news. S workshopy, jak pracovat s informacemi z kyberprostoru, jak ověřovat zdroje a fakta, budeme pravidelně navštěvovat jak základní školy, tak všechna městská zařízení pro důchodce.
 
-Podporujeme obnovitelné zdroje energie. Všechny střechy veřejných budov by měli vyrábět solární elektřinu. Na základních školách navíc tyto technologie s bateriemi mohou posloužit i k praktické výuce nejen fyziky.
+Podporujeme obnovitelné zdroje energie. Všechny střechy veřejných budov by měly vyrábět solární elektřinu. Na základních školách navíc tyto technologie s bateriemi mohou posloužit i k praktické výuce nejen fyziky.
