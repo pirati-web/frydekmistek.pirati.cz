@@ -3,6 +3,7 @@ title: Volební program
 layout: page
 published: true
 style: portrets
+description: 'Dlouhodobá koncepce: Frýdek-Místek jako moderní město, které se dívá do budoucnosti.'
 keywords: program, piráti, frýdek-místek, vize
 ---
 ## 1. Otevřená a transparentní radnice
