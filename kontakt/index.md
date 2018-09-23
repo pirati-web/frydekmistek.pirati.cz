@@ -33,4 +33,6 @@ Tímto se obracíme na vás, naše stoupence a voliče, abyste nám pomohli roz�
   <li>Umístěte náš banner nebo plakát na svůj plot nebo do své provozovny</li>
 </ul>
 
-Finanční dary pro Českou Pirátskou stranu můžete posílat na [dary](https://dary.pirati.cz).
+V případě, že byste nás chtěli podpořit, prosíme o vyplnění [darovací smlouvy](https://dary.pirati.cz).
+Po vyplnění darovací smlouvy obdržíte číslo účtu a variabilní symbol. Tento variabilní symbol slouží obecně pro Pirátskou stranu.
+Pro podporu přímo frýdecko-místeckých Pirátů použijte prosím variabilní symbol 190400 a do poznámky prosím uveďte Piráti F-M. Číslo účtu je stejné, tedy 2100048174/2010.
