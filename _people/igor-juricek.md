@@ -7,7 +7,7 @@ titles:
 category:
   - zastupitel
   - komise
-description: zastupitel města Frýdek-Místek <br/> komise majetková
+description: zastupitel města Frýdek-Místek <br/> člen majetkové komise
 profession: překladatel
 img: people/igor-juricek.jpg # zakomentuj radek dokud není fotka
 # mail:
