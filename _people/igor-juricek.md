@@ -5,7 +5,7 @@ titles:
   before: Mgr.
   after:
 category:
-  - priznivci
+  - zastupitel
 description: překladatel # zobrazuje se v lide
 profession: překladatel
 img: people/igor-juricek.jpg # zakomentuj radek dokud není fotka
