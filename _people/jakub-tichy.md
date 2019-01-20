@@ -16,6 +16,7 @@ profiles:
   facebook: https://www.facebook.com/jakub.tichy.10  # pokud nema, staci smazat tuto radku
   googleplus: https://plus.google.com/+uzivatel.na.googleplus
   # twitter: https://twitter.com/uzivatel.na.twitteru
+ordfm: 1
 ---
  Jakub Tichý (* 1984) kandiduje na lídra kandidátky ve Frýdku - Místku. Jakub se ve Frýdku - Místku také narodil.
 
