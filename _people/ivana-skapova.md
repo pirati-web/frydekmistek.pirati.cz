@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - komise
-description: komise sociální a zdravotní # zobrazuje se v lide
+description: členka komise sociální a zdravotní # zobrazuje se v lide
 profession: stomatolog
 img: people/ivana-skapova.jpg # zakomentuj radek dokud není fotka
 # mail:
