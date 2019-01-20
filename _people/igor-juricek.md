@@ -15,6 +15,7 @@ profiles:
   facebook: https://www.facebook.com/piratifrm/  # pokud nema, staci smazat tuto radku
   # googleplus: https://plus.google.com/+uzivatel.na.googleplus
   # twitter: https://twitter.com/uzivatel.na.twitteru
+ordfm: 4
 ---
 Igor Juríček (1981), z Frýdku-Místku, kde kromě období studia a digitálního nomádství i celý život žiju a podnikám.
 
