@@ -7,7 +7,7 @@ titles:
 category:
   - zastupitel
   - kontaktni_osoba
-description: Obchodní zástupce, designér # zobrazuje se v lide
+description: zastupitelka města Frýdek-Místek # zobrazuje se v lide
 profession: provozovatel obchodu s lokálním designem
 img: people/leonard-varga.jpg # zakomentuj radek dokud není fotka
 candidateDescription: provozovatel obchodu s lokálním designem # zobrazuje se v komunalni-volby
