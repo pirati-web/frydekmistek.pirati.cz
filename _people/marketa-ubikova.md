@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - zastupitel
-description: podnikatelka na rodičovské dovolené # zobrazuje se v lide
+description: zastupitelka města Frýdek-Místek # zobrazuje se v lide
 profession: projektová manažerka
 img: people/marketa-ubikova.jpg # zakomentuj radek dokud není fotka
 # mail:
