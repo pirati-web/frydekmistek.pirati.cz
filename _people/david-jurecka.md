@@ -5,8 +5,8 @@ titles:
   before: Mgr.
   after:
 category:
-  - priznivci
-description: průvodce # zobrazuje se v lide
+  - komise
+description: komise pro obnovu kulturních míst, historických památek a významných lokalit ve Frýdku-Místku # zobrazuje se v lide
 profession: průvodce
 img: people/david-jurecka.jpg # zakomentuj radek dokud není fotka
 # mail:
