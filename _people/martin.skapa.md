@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - vybor
-description: finanční výbor # zobrazuje se v lide
+description: člen finančního výboru # zobrazuje se v lide
 profession: analytik, jednatel firmy
 img: people/martin-skapa.jpg # zakomentuj radek dokud není fotka
 # mail:
