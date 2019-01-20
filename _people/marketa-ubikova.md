@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - zastupitel
-description: zastupitelka města Frýdek-Místek # zobrazuje se v lide
+description: zastupitelka města Frýdek-Místek <br/> komise územního plánování a architektury # zobrazuje se v lide
 profession: projektová manažerka
 img: people/marketa-ubikova.jpg # zakomentuj radek dokud není fotka
 # mail:
