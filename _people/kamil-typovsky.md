@@ -3,7 +3,7 @@ uid: kamil.typovsky
 name:     Kamil Typovský  	# běžně používáné jméno
 category:
   - komise
-description: komise sportovní # zobrazuje se v lide
+description: člen sportovní komise # zobrazuje se v lide
 profession: dramaturg
 img: people/kamil-typovsky.jpg # zakomentuj radek dokud není fotka
 # mail:
