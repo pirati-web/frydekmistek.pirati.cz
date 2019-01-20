@@ -2,8 +2,8 @@
 uid: jan.damek
 name:     Jan Damek  	# běžně používáné jméno
 category:
-  - priznivci
-description: inženýr automatizace # zobrazuje se v lide
+  - komise
+description: komise pro dopravu # zobrazuje se v lide
 profession: inženýr automatizace
 img: people/jan-damek.jpg # zakomentuj radek dokud není fotka
 # mail:
