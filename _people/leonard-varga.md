@@ -8,7 +8,7 @@ category:
   - zastupitel
   - vybor
   - kontaktni_osoba
-description: zastupitel města Frýdek-Místek <br/> kontrolní výbor # zobrazuje se v lide
+description: zastupitel města Frýdek-Místek <br/> člen kontrolního výboru # zobrazuje se v lide
 profession: provozovatel obchodu s lokálním designem
 img: people/leonard-varga.jpg # zakomentuj radek dokud není fotka
 candidateDescription: provozovatel obchodu s lokálním designem # zobrazuje se v komunalni-volby
