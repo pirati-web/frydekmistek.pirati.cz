@@ -5,8 +5,8 @@ titles:
   before: Mgr.
   after:
 category:
-  - priznivci
-description: projektová manažerka # zobrazuje se v lide
+  - komise
+description: komise pro občanské záležitosti # zobrazuje se v lide
 profession: projektová manažerka
 img: people/veronika-madejova.jpg # zakomentuj radek dokud není fotka
 # mail:
