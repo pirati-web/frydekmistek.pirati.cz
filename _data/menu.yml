@@ -35,10 +35,10 @@ bottom:
   - class: small-12 medium-4
     title: Přečti si
     links:
-#      - link: /lide/
-#        name: Lidé
-      - link: /komunalni-volby/
-        name: Volby
+      - link: /lide/
+        name: Piráti na radnici
+#      - link: /komunalni-volby/
+#        name: Volby
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
