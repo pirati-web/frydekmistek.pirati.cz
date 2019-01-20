@@ -2,8 +2,8 @@
 uid: dominik.drmela
 name:     Dominik Drmela  	# běžně používáné jméno
 category:
-  - priznivci
-description: herec # zobrazuje se v lide
+  - komise
+description: komise pro cestovní ruch # zobrazuje se v lide
 profession: herec
 img: people/dominik-drmela.jpg # zakomentuj radek dokud není fotka
 # mail:
