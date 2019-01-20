@@ -2,8 +2,8 @@
 uid: tomas.gebauer
 name:     Tomáš Gebauer 	# běžně používáné jméno
 category:
-  - priznivci
-description: lesní # zobrazuje se v lide
+  - komise
+description: komise investiční a životního prostředí # zobrazuje se v lide
 profession: lesní
 img: people/tomas-gebauer.jpg # zakomentuj radek dokud není fotka
 # mail:
