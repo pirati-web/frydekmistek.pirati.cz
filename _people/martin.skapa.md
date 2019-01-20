@@ -5,8 +5,8 @@ titles:
   before: Ing.
   after:
 category:
-  - priznivci
-description: analytik, jednatel firmy # zobrazuje se v lide
+  - vybor
+description: finanční výbor # zobrazuje se v lide
 profession: analytik, jednatel firmy
 img: people/martin-skapa.jpg # zakomentuj radek dokud není fotka
 # mail:
