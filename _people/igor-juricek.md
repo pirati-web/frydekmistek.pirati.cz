@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - zastupitel
-description: překladatel # zobrazuje se v lide
+#description: překladatel # zobrazuje se v lide
 profession: překladatel
 img: people/igor-juricek.jpg # zakomentuj radek dokud není fotka
 # mail:
