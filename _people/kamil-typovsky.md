@@ -2,8 +2,8 @@
 uid: kamil.typovsky
 name:     Kamil Typovský  	# běžně používáné jméno
 category:
-  - priznivci
-description: dramaturg # zobrazuje se v lide
+  - komise
+description: komise sportovní # zobrazuje se v lide
 profession: dramaturg
 img: people/kamil-typovsky.jpg # zakomentuj radek dokud není fotka
 # mail:
