@@ -5,7 +5,7 @@ titles:
   before:
   after:
 category:
-  - clenove
+  - zastupitel
   - kontaktni_osoba
 description: Obchodní zástupce, designér # zobrazuje se v lide
 profession: provozovatel obchodu s lokálním designem
