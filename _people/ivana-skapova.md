@@ -5,8 +5,8 @@ titles:
   before: Mudr.
   after:
 category:
-  - priznivci
-description: stomatolog # zobrazuje se v lide
+  - komise
+description: komise sociální a zdravotní # zobrazuje se v lide
 profession: stomatolog
 img: people/ivana-skapova.jpg # zakomentuj radek dokud není fotka
 # mail:
