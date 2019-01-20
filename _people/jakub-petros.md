@@ -2,7 +2,7 @@
 uid: jakub.petros
 name:     Jakub Petroš  	# běžně používáné jméno
 category:
-  - priznivci
+  - komise
 description: junior network engineer # zobrazuje se v lide
 profession: junior network engineer
 img: people/jakub-petros.jpg # zakomentuj radek dokud není fotka
