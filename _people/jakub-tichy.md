@@ -5,7 +5,7 @@ titles:
   before:
   after:
 category:
-  - priznivci
+  - zastupitel
 description: ředitel divadla Komorní scéna Aréna v Ostravě # zobrazuje se v lide
 profession: ředitel divadla Komorní scéna Aréna v Ostravě
 img: people/jakub-tichy.jpg # zakomentuj radek dokud není fotka
