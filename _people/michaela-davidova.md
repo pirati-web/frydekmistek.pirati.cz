@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - komise
-description: komise pro výchovu a vzdělávání # zobrazuje se v lide
+description: členka komise pro výchovu a vzdělávání # zobrazuje se v lide
 profession: manažerka marketingu a pr
 img: people/michaela-davidova.jpg # zakomentuj radek dokud není fotka
 # mail:
