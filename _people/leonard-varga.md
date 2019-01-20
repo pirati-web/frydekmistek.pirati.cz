@@ -17,6 +17,7 @@ profiles:
   facebook: https://www.facebook.com/leonard.varga.5  # pokud nema, staci smazat tuto radku
   # googleplus: https://plus.google.com/+uzivatel.na.googleplus
   # twitter: https://twitter.com/uzivatel.na.twitteru
+ordfm: 2
 ---
 
 Leonard Varga (* 1986)
