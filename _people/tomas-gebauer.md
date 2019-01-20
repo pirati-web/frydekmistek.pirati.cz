@@ -3,7 +3,7 @@ uid: tomas.gebauer
 name:     Tomáš Gebauer 	# běžně používáné jméno
 category:
   - komise
-description: komise investiční a životního prostředí # zobrazuje se v lide
+description: člen komise investiční a životního prostředí # zobrazuje se v lide
 profession: lesní
 img: people/tomas-gebauer.jpg # zakomentuj radek dokud není fotka
 # mail:
