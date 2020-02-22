@@ -13,7 +13,6 @@ tags:
   - zastupitelstvo
 ---
  **Frýdek-Místek se pomalu konečně přesouvá do 21. století.**
-
 <hr>
 
 Po roce našeho soustavného tlaku na vedení města radní rozhodli o zveřejňování záznamů z jednání zastupitelstva na YouTube.
