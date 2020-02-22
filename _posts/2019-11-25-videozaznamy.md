@@ -24,4 +24,3 @@ Tento krok vítáme, je to však jen dílčí posun k námi požadované transpa
 V rámci našeho programu #otevrenaradnice budeme dále usilovat o:
 - [x] zveřejňování materiálů na zastupitelstvo včetně příloh
 - [x] zřízení cloudu k digitální distribuci materiálů pro zastupitele a nejen pro ně
----
