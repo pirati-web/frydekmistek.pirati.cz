@@ -5,7 +5,7 @@ layout: post
 title: 'Videozáznamy zastupitelstva budou na Youtube'
 author: Markéta Ubíková
 authorId: marketa.ubikova    # uid nekoho z _people (nepoviné)
-image: articles/2019/videozaznamy/videozaznam.png
+image: articles/2019/videozaznamy/videozaznam.jpg
 tags:
   - piráti
   - frýdek-místek
