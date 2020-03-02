@@ -6,11 +6,6 @@ title: 'Videozáznamy zastupitelstva budou na Youtube'
 author: Markéta Ubíková
 authorId: marketa.ubikova    # uid nekoho z _people (nepoviné)
 image: articles/2019/videozaznamy/videozaznam.jpg
-tags:
-  - piráti
-  - frýdek-místek
-  - videozáznamy
-  - zastupitelstvo
 ---
  **Frýdek-Místek se pomalu konečně přesouvá do 21. století.**
 <hr>
