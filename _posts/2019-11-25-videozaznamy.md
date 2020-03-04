@@ -9,9 +9,6 @@ image: articles/2019/videozaznamy/videozaznam.jpg
 ---
  **Frýdek-Místek se pomalu konečně přesouvá do 21. století.**
 <hr>
-
-Po roce našeho soustavného tlaku na vedení města radní rozhodli o zveřejňování záznamů z jednání zastupitelstva na YouTube.
-
 Po roce našeho soustavného tlaku na vedení města radní rozhodli o zveřejňování záznamů z jednání zastupitelstva na YouTube.
 
 Tento krok vítáme, je to však jen dílčí posun k námi požadované transparenci.
