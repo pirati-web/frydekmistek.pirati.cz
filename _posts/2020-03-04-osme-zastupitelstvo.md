@@ -7,6 +7,7 @@ image: articles/2020/osme_zastupitelstvo/2020_3_4_osme_zasedani.jpg
 ---
 Začátek zasedání byl mírně řečeno rozpačitý 🙈 (pusťte si záznam a obrázek si udělejte sami), ale pak už se šlo bod po bodě:
 
+
 ✅Podpořili jsme dotace pro kulturu, sport, sociální a zdravotní oblast atd., ale upozornili jsme na to, že velká část peněz z rozpočtu města jde mimo grantová řízení a komise. Apelujeme na to, aby se tento stav změnil a prostředky šly přes komise.
 
 ✅Podpořili jsme změnu územního plánu (pozemky Slezanu se díky tomu mohou stát součástí města a dále se rozvíjet).
