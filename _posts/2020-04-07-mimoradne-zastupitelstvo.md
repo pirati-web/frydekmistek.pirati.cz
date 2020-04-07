@@ -19,19 +19,19 @@ image: articles/2020/04_07_mimoradne_zastupitelstvo/2020_04_07_mimiradne_zastupi
 <br>
 <br>
 <br>
-▪️MATERIÁL č. 2⃣😷: Rozpočtové opatření, 5 mil z rezervy na kanalizaci na nákup ochranných pomůcek.
+▪️MATERIÁL č. 2 😷: Rozpočtové opatření, 5 mil z rezervy na kanalizaci na nákup ochranných pomůcek.
 
 ➡✅ Budeme PRO.
 <br>
 <br>
 <br>
-▪️MATERIÁL č. 3⃣💸: Svěřit radě města pravomoci k provádění rozpočtových opatření v roce 2020, a to s okamžitou účinností do konání dalšího řádného zastupitelstva města dne 3. 6. 2020, max. však do 30. 6. 2020.
+▪️MATERIÁL č. 3 💸: Svěřit radě města pravomoci k provádění rozpočtových opatření v roce 2020, a to s okamžitou účinností do konání dalšího řádného zastupitelstva města dne 3. 6. 2020, max. však do 30. 6. 2020.
 
 ➡🧯 Tento bod podpoříme pouze za podmínky, že bude na jednání rady vždy pozván některý náš zastupitel jako host.
 <br>
 <br>
 <br>
-▪️MATERIÁL č. 4⃣🏥: Dva peněžní dary Nemocnici Frýdek-Místek v celkové výši 3,47 mil na nákup monitorů k plicním ventilacím a na nákup elektricky polohovatelných lůžek.
+▪️MATERIÁL č. 4 🏥: Dva peněžní dary Nemocnici Frýdek-Místek v celkové výši 3,47 mil na nákup monitorů k plicním ventilacím a na nákup elektricky polohovatelných lůžek.
 
 ➡✅ Budeme PRO.
 <br>
