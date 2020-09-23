@@ -5,8 +5,8 @@ layout: post
 title: 'Den bez aut a doprava ve městě'
 author: Markéta Ubíková
 authorId: marketa.ubikova
-author: Leonard Varga
-authorId: leonard.varga
+author: Leonard Varga, Markéta Ubíková
+authorId: leonard.varga, marketa.ubikova
 image: articles/2020/den_bez_aut/frydek_pesi_trasy.jpg
 ---
 V úterý 22. 9. se celosvětově slavil Den bez aut, který je součástí Evropského týdne mobility. Akce pořádané tento den mají poukázat na přijatelnější způsoby dopravy a podpořit omezování městského automobilismu. V okolí slaví tento den města jako Nový Jičín nebo Kopřivnice. Město Frýdek-Místek se této akce neúčastní. Přitom si město nechalo minulý rok zpracovat Plán udržitelné městské mobility statutárního města Frýdku-Místku, který právě rozvíjí udržitelné způsoby dopravy ve městě. 
