@@ -147,6 +147,14 @@ defaults:   # defaults values for collection scope
       rbar:
          - garant
          - program
+  -
+    scope:
+      path: "_udalosti"
+    values:
+      layout: "program-post"
+      rbar:
+         - foto
+         - program         
 
 emptyArray: []
 
