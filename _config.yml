@@ -154,7 +154,8 @@ defaults:   # defaults values for collection scope
       layout: "program-post"
       rbar:
          - foto
-         - program         
+         - program 
+         - aktuality
 
 emptyArray: []
 
