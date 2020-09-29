@@ -123,7 +123,7 @@ collections:
     
   nadchazejici_udalosti:
     output: true
-    permalink: /nadchazejici/:title.html/
+    permalink: /nadchazejici/udalosti/:path/
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
