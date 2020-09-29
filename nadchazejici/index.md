@@ -10,7 +10,7 @@ keywords: nadcházející události
           <header class="c-page-header">
             <h1 itemprop="headline" class="c-page-title">Aktuality</h1>
           </header>
-          {% assign posts = paginator.posts %}
+          {% assign posts = site.udalosti %}
           {% include articles/list-responsive.html posts=posts %}
           {% include articles/pagination.html paginator=paginator %}
       </div>
