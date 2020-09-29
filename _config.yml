@@ -102,7 +102,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-environment-variables
-paginate_path: "/udalosti/:num/"
+paginate_path: "/aktuality/:num/"
 paginate: 11
 
 exclude:
