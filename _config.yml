@@ -120,10 +120,6 @@ collections:
   program:
     output: true
     permalink: /komunalni-volby/program/:path/
-    
-  nadchazejici_udalosti:
-    output: true
-    permalink: /nadchazejici/udalosti/:path/
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
