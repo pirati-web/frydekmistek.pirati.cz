@@ -119,7 +119,7 @@ collections:
 
   program:
     output: true
-    permalink: /komunalni-volby/program/:path/
+    permalink: /komunalni-volby/:path/
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
