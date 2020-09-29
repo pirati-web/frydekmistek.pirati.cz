@@ -125,7 +125,7 @@ collections:
   candidatelists:
     output: false
 
-defaults:   # defaults values for collection scope
+# defaults:   # defaults values for collection scope
  # -
  #   scope:
  #     path: "_people"
@@ -142,17 +142,17 @@ defaults:   # defaults values for collection scope
 #      layout: "program-post"
 #      rbar:
 #         - garant
- #        - program
-  -
-    scope:
-      path: "_udalosti"
-    values:
-      layout: "program-post"
-      rbar:
-         - foto
-         - program 
-         - people
-         - personContact
+#         - program
+#  -
+#    scope:
+#      path: "_udalosti"
+#    values:
+#      layout: "program-post"
+#      rbar:
+#         - foto
+#         - program 
+#         - people
+#         - personContact
 
 emptyArray: []
 
