@@ -155,7 +155,7 @@ defaults:   # defaults values for collection scope
       rbar:
          - foto
          - program 
-         - aktuality
+         - people
 
 emptyArray: []
 
