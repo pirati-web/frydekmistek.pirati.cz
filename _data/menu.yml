@@ -12,7 +12,7 @@ top:
 main:
   - link: /nadchazejici/
     name: Události budoucí
-    match: nadchazejici
+    match: nadchazejici_udalosti
   - link: /aktuality/
     name: Aktuality
     match: aktuality
