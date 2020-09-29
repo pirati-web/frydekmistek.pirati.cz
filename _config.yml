@@ -156,6 +156,7 @@ defaults:   # defaults values for collection scope
          - foto
          - program 
          - people
+         - personContact
 
 emptyArray: []
 
