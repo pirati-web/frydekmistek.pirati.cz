@@ -22,7 +22,7 @@ main:
 #  - link: /komunalni-volby/
 #    name: Komunální volby
 #    match: komunalni-volby
-  - link: /program/
+  - link: /test/
     name: Program
     match: program
   - link: /kontakt/
