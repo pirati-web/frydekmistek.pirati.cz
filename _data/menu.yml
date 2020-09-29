@@ -10,7 +10,7 @@ top:
     icon: "fa fa-newspaper-o"
 
 main:
-#  - link: /udalosti/
+#  - link: /nadchazejici/
 #    name: Události budoucí
 #    match: nadchazejici_udalosti
   - link: /aktuality/
@@ -22,7 +22,7 @@ main:
 #  - link: /komunalni-volby/
 #    name: Komunální volby
 #    match: komunalni-volby
-  - link: /test/
+  - link: /program/
     name: Program
     match: program
   - link: /kontakt/
