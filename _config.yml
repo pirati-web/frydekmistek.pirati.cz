@@ -126,15 +126,15 @@ collections:
     output: false
 
 defaults:   # defaults values for collection scope
-  -
-    scope:
-      path: "_people"
-    values:
-      layout: "person"
-      rbar:
-        - foto
-        - personContact
-        - people
+ # -
+ #   scope:
+ #     path: "_people"
+ #   values:
+ #     layout: "person"
+ #     rbar:
+ #       - foto
+ #       - personContact
+ #       - people
 #  -
 #    scope:
 #      path: "_program"
