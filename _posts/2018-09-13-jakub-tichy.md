@@ -23,5 +23,3 @@ O veřejném prostoru se toho mnoho namluví. Pokud ale za několik let bude dok
 Tradičním pirátským tématem je digitalizace. Nepřijde vám kupříkladu bláznivé, že město rok co rok rozesílá skoro šedesát tisíc obálek se složenkami za odpad? Nezdá se vám úmorné dlouhé minuty ručně vyplňovat komplikované formuláře? Víme, že to jde i jinak – formulář můžete vyplnit on-line, objednat se můžete na konkrétní čas, většinu komunikace s úřadem můžete zvládnout ze svého počítače nebo mobilu.
 
 A hlavně: chceme, abyste se do rozhodování o záležitostech města zapojili vy – občané. Chceme, aby veškeré výdaje města byly dohledatelné až na úroveň jednotlivých faktur. Chceme, aby maximum informací o uskutečněných i připravovaných projektech bylo volně k dohledání. Chceme, aby veškeré dotace na sportovní, kulturní, sociální a jiné projekty byly přidělovány v otevřených dotačních programem na základě jasných a předvídatelných kritérií. Chceme zkrátka, abyste i vy mohli rozhodovat o využití veřejných peněz. Město každoročně hospodaří s více než miliardou korun. Je to i vaše miliarda!
-
-Autor: Jakub Tichý
