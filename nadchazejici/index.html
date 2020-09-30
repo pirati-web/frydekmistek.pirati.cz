@@ -3,22 +3,3 @@ layout: default
 title: Události budoucí
 keywords: nadcházející události
 ---
-<div class="row">
-  <div class="columns">
-    <div class="o-section">
-      <div class="o-section-inner">
-          <header class="c-page-header">
-            <h1 itemprop="headline" class="c-page-title">Nadcházející události</h1>
-          </header>
-          {% assign tag = 'test'  %}
-          <ul>
-          {% for post in site.tags[tag] %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
-          </ul>
-         {% assign posts=site.tags[tag] %} 
-         {% include articles/list-responsive.html posts=posts %}
-         {% include articles/pagination.html paginator=paginator %}
-      </div>
-    </div>
-  </div>
-</div>
