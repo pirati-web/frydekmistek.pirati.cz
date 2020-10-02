@@ -10,9 +10,6 @@ top:
     icon: "fa fa-newspaper-o"
 
 main:
-  - link: /nadchazejici/
-    name: Události budoucí
-    match: nadchazejici
   - link: /aktuality/
     name: Aktuality
     match: aktuality
