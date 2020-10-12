@@ -125,17 +125,16 @@ collections:
   candidatelists:
     output: false
 
- defaults:   # defaults values for collection scope
- -
-   scope:
+defaults:   # defaults values for collection scope
+  - scope:
      path: "_people"
-   values:
+    values:
      layout: "person"
      rbar:
        - foto
        - personContact
        - people
- -
+  -
     scope:
       path: "_program"
     values:
@@ -151,16 +150,16 @@ assets:
   compression: true
   gzip: false
   plugins:
-    css: { autoprefixer: {}}
+#    css: { autoprefixer: {}}
     img:
       optim:
         jpegoptim:
           strip: all
           max_quality: 80
-  autoprefixer:
-    browsers:
-      - "last 2 versions"
-      - "IE > 9"
+ # autoprefixer:
+ #   browsers:
+ #     - "last 2 versions"
+ #     - "IE > 9"
   sources:
     - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-6.6.1/_sass
     - assets/css
