@@ -1,7 +1,6 @@
 ---
 date: 2018-09-13
 category: blog
-tags: legislativa
 layout: post
 title: Lídr Pirátů ve Frýdku Místku Jakub Tichý - Je to i vaše miliarda!
 author: Jakub Tichý
