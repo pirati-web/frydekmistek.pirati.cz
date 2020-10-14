@@ -116,54 +116,50 @@ collections:
   people:
     output: true
     permalink: /lide/:path/
-
   program:
     output: true
     permalink: /komunalni-volby/program/:path/
 
+
   # Sole purpose is to create candidate lists in separate files.
-  candidatelists:
-    output: false
 
 defaults:   # defaults values for collection scope
-  - scope:
-     path: "_people"
-    values:
-     layout: "person"
-     rbar:
-       - foto
-       - personContact
-       - people
   -
     scope:
-      path: "_program"
+      path: "_posts"
     values:
-      layout: "program-post"
+      layout: "post"
+  -
+    scope:
+      path: "_people"
+    values:
+      layout: "person"
       rbar:
-         - garant
-         - program
-
-emptyArray: []
+        - foto
+        - personContact
+        - people
 
 assets:
   source_maps: true
   compression: true
   gzip: false
   plugins:
-#    css: { autoprefixer: {}}
+    css: { }
     img:
       optim:
         jpegoptim:
           strip: all
           max_quality: 80
- # autoprefixer:
- #   browsers:
- #     - "last 2 versions"
- #     - "IE > 9"
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-6.6.1/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.1/_sass
     - assets/css
     - assets/fonts
     - assets/video
     - assets/img
+    - assets/img/posts
+    - assets/snippet
     - _sass
