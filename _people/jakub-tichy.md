@@ -28,3 +28,4 @@ Posledních pět let byl ředitelem městského kulturního zařízení ve Frýd
 Neprofesionálně se věnuje hudbě a divadlu.
 
 
+...
