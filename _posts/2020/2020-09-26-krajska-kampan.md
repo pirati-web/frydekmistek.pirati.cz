@@ -8,10 +8,10 @@ image: articles/2020/26_09_krajska_kampan/kampan_uvod.jpg
 Malý fotoreport z dnešní návštěvy Ivana Bartoše ve F-M, který přijel podpořit naše místní kandidáty do krajských voleb Leonarda Vargu a Míšu Davidovou. 
 <br>
 <br>
-![Pirátský autobus budoucnosti]({{'kampan1.jpg' | prepend: '/assets/img/articles/2020/26_09_krajska_kampan/' | relative_url}} "Pirátský autobus budoucnosti")
-<br>
-<br>
 Dokonce se umoudřilo počasí a mohli jsme si tak užít příjemné dopoledne u pirátských hraček, čaje a debaty Ivana s lidmi.
+<br>
+<br>
+![Pirátský autobus budoucnosti]({{'kampan1.jpg' | prepend: '/assets/img/articles/2020/26_09_krajska_kampan/' | relative_url}} "Pirátský autobus budoucnosti")
 <br>
 <br>
 ![Pirátský autobus budoucnosti]({{'kampan2.jpg' | prepend: '/assets/img/articles/2020/26_09_krajska_kampan/' | relative_url}} "Pirátský autobus budoucnosti")
