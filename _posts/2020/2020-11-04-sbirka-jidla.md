@@ -10,7 +10,6 @@ image: articles/2020/sbirka_jidla/food_no_bombs.jpg
 <br>
 „Přemýšleli jsme, jak lidem bez domova nebo v bytové nouzi v téhle těžké době pomoci. Na podzim každoročně přichází období, které je pro ně nejhorší. Venku přituhuje a kromě hladu tak často bojují o přežití i kvůli počasí. Symbolicky o prvním adventním víkendu pro ně spolupořádáme sbírku potravin a budeme rádi za každého, kdo se zapojí. Téměř všichni míváme doma potraviny, které mohou jiným pomoci přežít a včas se spotřebovat,“ uvedla Michaela Davidová, která sbírku za Piráty organizuje.  
 <br>
-<br>
 Piráti sbírku pořádají společně s Food not Bombs (Jídlo místo zbraní), skupinou mladých aktivních lidí z Frýdku-Místku, která se recyklaci a distribuci jídla potřebným dlouhodobě věnuje. Pravidelně jednou za 14 dní vaří a rozdávají teplé jídlo na ulici lidem v nouzi.
 <br>
 <br>
