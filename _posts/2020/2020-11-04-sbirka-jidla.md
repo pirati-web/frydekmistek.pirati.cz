@@ -20,4 +20,4 @@ Přispět do sbírky a darovat potraviny pro potřebné můžete v sobotu 28. li
 Potraviny, které je vhodné darovat jsou olej, těstoviny, rýže, rajský protlak, koření (majoránka, kmín, kari, paprika, pepř, sůl), luštěniny (klasické suché: fazole, čočka, hrách), sojové maso: granulát, kousky, případně trvanlivé jídlo, které se dá jíst bez ohřívání, a které mohou dobrovolníci přibalit do balíčku: lunchmeat, rybičky, paštiky apod. 
 <br>
 <br>
-Zdroj: [Pirátské listy] (https://www.piratskelisty.cz/clanek-3557-frydeckomistecti-pirati-poradaji-potravinovou-sbirku-pro-lidi-v-nouzi?fbclid=IwAR0RScq4YVafwst0FAHZJYogD1bvQ3IPBctDVXm0T80eZJOKpWV4MHIB29I).
+Zdroj: [Pirátské listy](https://www.piratskelisty.cz/clanek-3557-frydeckomistecti-pirati-poradaji-potravinovou-sbirku-pro-lidi-v-nouzi?fbclid=IwAR0RScq4YVafwst0FAHZJYogD1bvQ3IPBctDVXm0T80eZJOKpWV4MHIB29I)
