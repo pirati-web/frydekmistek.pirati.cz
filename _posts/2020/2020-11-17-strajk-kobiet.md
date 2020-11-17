@@ -45,7 +45,7 @@ https://plus.rozhlas.cz/svedska-europoslankyne-vyzyva-k-podpore-polske-iniciativ
 (4)
 https://www.irozhlas.cz/zivotni-styl/spolecnost/polsko-potraty-ustavni-soud-ochrana-ditete_2011091944_pj
 <br>
-&nbsp; &nbsp; &nbsp; https://plus.rozhlas.cz/polsky-zakaz-potratu-je-vychovny-lide-si-davaji-pozor-kdyz-vi-ze-nemohou-vzit-8355281
+&nbsp; &nbsp; &nbsp;https://plus.rozhlas.cz/polsky-zakaz-potratu-je-vychovny-lide-si-davaji-pozor-kdyz-vi-ze-nemohou-vzit-8355281
 <br>
 <br>
 (5) 
