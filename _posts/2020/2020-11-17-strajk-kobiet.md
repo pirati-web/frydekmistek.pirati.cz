@@ -38,11 +38,13 @@ https://www.irozhlas.cz/zpravy-svet/smutny-den-pro-zenska-prava-polsky-ustavni-s
 <br>
 (3)
 https://www.seznamzpravy.cz/clanek/nedejte-se-hrib-podporil-boj-polskych-zen-za-pravo-na-interrupci-127691
+<br>
 https://plus.rozhlas.cz/svedska-europoslankyne-vyzyva-k-podpore-polske-iniciativy-za-pravo-na-interrupci-7168931
 <br>
 <br>
 (4)
 https://www.irozhlas.cz/zivotni-styl/spolecnost/polsko-potraty-ustavni-soud-ochrana-ditete_2011091944_pj
+<br>
 https://plus.rozhlas.cz/polsky-zakaz-potratu-je-vychovny-lide-si-davaji-pozor-kdyz-vi-ze-nemohou-vzit-8355281
 <br>
 <br>
