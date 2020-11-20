@@ -5,7 +5,7 @@ layout: post
 title: 'Piráti ve Frýdku-Místku podporují polské ženy'
 image: articles/2020/strajk_kobiet/strajk_kobiet.jpg
 ---
-<strong>Aktuální téma reprodukčních práv v Polsku se nás dotýká více, než bychom čekali. Frýdeckomístečtí Piráti se proto připojují k hlasům vyjadřujícím solidaritu s polskými ženami a menšinami, které bojují s tlakem Polské konzervativní vlády.</strong> 
+<strong>Aktuální téma reprodukčních práv v Polsku se nás dotýká více, než bychom čekali. Frýdeckomístečtí Piráti se proto připojují k hlasům vyjadřujícím solidaritu s polskými ženami a menšinami, které bojují s tlakem polské konzervativní vlády.</strong> 
 <br>
 <br>
 22.října tohoto roku označil polský ústavní soud potraty z důvodu vážného poškození plodu za protiústavní. V Polsku jsou už teď interrupce prakticky zakázané a s účinkem této úpravy potratového zákona nebude oprávněný ani nejčastější důvod i k tomu málu zákroků, které dnes u našich sousedů legálně probíhají.
@@ -14,7 +14,7 @@ image: articles/2020/strajk_kobiet/strajk_kobiet.jpg
 Výrok ústavního soudu, který je složený převážně ze soudců nominovaných polskou vládní stranou Právo a spravedlnost, je výsledkem dlouhodobého tlaku konzervativních a církevních zájmových skupin v Polsku a také to za poslední léta není ani pokus první.(1) Obdobné zásahy do občanských práv nemají ve skutečnosti s ochranou zdraví nebo života nic společného a ženské tělo se v tomto případě stává rukojmím vládní snahy o větší a větší kontrolu nad soukromými životy Polek a Poláků.
 <br>
 <br>
-Snahy o další omezení přístupu k potratům vyvolaly v Polsku i přes koronavirovou krizi rozsáhlé protesty. Do ulic vyšly ženy i muži mobilizovaní kampaní organizace Celostátní stávka žen. Situace také vyvolala vlny solidarity ve světě i v Česku. Za Polské ženy se postavila Rada Evropy pro lidská práva i mnozí evropští politici a nevládní organizace. Podporu Polkám vyjádřil i pražský Pirátský primátor Zdeněk Hřib.(2)(3)
+Snahy o další omezení přístupu k potratům vyvolaly v Polsku i přes koronavirovou krizi rozsáhlé protesty. Do ulic vyšly ženy i muži mobilizovaní kampaní organizace Celostátní stávka žen. Situace také vyvolala vlny solidarity ve světě i v Česku. Za polské ženy se postavila Rada Evropy pro lidská práva i mnozí evropští politici a nevládní organizace. Podporu Polkám vyjádřil i pražský Pirátský primátor Zdeněk Hřib.(2)(3)
 <br>
 <br>
 „Podpořit polské ženy v jejich svobodné volbě bychom chtěli i my ve Frýdku-Místku. V prvé řadě proto, že máme v Polsku přátele, se kterými soucítíme a také proto, že si velmi dobře uvědomujeme, jak blízko to na hranice s Polskem je,“ říká Michaela Davidová, která se u Frýdeckomísteckých Pirátů tématu věnuje, a dodává, že kroků směrem k omezování lidských svobod v zemích Visegrádské čtyřky přibývá a my si nesmíme myslet, že se nás to netýká.
