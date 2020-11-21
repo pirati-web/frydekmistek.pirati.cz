@@ -1,7 +1,7 @@
 ---
 date: 2018-07-12
 category: blog
-tags:
+tags: post
 layout: post
 title: Prohlášení o kandidatuře
 author: Leonard Varga
