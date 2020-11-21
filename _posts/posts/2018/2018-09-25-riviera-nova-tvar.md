@@ -1,7 +1,7 @@
 ---
 date: 2018-09-24
 category: blog
-tags:
+tags: post
 layout: post
 title: Sídliště Riviéra dostane novou tvář, občany ale město do plánování nezapojilo
 author: Markéta Ubíková
