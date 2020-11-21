@@ -2,6 +2,7 @@
 date: 2019-11-25
 category: blog
 layout: post
+tags: post
 title: 'Videozáznamy zastupitelstva budou na Youtube'
 image: articles/2019/videozaznamy/videozaznam.jpg
 ---
