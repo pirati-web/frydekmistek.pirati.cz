@@ -2,6 +2,7 @@
 date: 2020-03-04
 category: blog
 layout: post
+tags: post
 title: 'PirátiFM a 8. zasedání zastupitelstva'
 image: articles/2020/osme_zastupitelstvo/2020_3_4_osme_zasedani.jpg
 ---

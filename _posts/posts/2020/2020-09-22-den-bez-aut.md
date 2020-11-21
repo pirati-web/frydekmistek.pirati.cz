@@ -2,6 +2,7 @@
 date: 2020-09-22
 category: blog
 layout: post
+tags: post
 title: 'Den bez aut a doprava ve městě'
 image: articles/2020/den_bez_aut/frydek_pesi_trasy.jpg
 ---

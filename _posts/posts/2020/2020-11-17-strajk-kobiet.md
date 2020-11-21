@@ -2,6 +2,7 @@
 date: 2020-11-17
 category: blog
 layout: post
+tags: post
 title: 'Piráti ve Frýdku-Místku podporují polské ženy'
 image: articles/2020/strajk_kobiet/strajk_kobiet.jpg
 ---

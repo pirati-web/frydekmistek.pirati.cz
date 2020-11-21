@@ -2,6 +2,7 @@
 date: 2020-09-26
 category: blog
 layout: post
+tags: post
 title: 'Pirátský autobus budoucnosti ve Frýdku-Místku'
 image: articles/2020/26_09_krajska_kampan/kampan_uvod.jpg
 ---

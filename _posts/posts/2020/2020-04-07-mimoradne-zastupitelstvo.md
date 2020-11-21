@@ -2,6 +2,7 @@
 date: 2020-04-07
 category: blog
 layout: post
+tags: post
 title: 'MIMOŘÁDNÉ ZASTUPITELSTVO'
 image: articles/2020/04_07_mimoradne_zastupitelstvo/2020_04_07_mimiradne_zastupitelstvo.png
 ---
