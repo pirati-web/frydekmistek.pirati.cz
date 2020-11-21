@@ -14,7 +14,7 @@ main:
     name: Události
     match: udalosti
   - link: /aktuality/
-    name: Aktuality
+    name: Napsali jsme
     match: aktuality
   - link: /lide/
     name: Piráti na radnici
