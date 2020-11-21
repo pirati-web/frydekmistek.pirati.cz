@@ -2,6 +2,7 @@
 date: 2020-04-03
 category: blog
 layout: post
+tags: post
 title: 'Aféra telefony pro krizový štáb'
 image: articles/2020/afera_telefony/iphone.png
 ---
