@@ -103,7 +103,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
-paginate: 11
+paginate: 13
 
 exclude:
   - readme.md
