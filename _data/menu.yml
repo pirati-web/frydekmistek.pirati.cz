@@ -10,6 +10,9 @@ top:
     icon: "fa fa-newspaper-o"
 
 main:
+  - link: /udalosti/
+    name: Události
+    match: udalosti
   - link: /aktuality/
     name: Aktuality
     match: aktuality
