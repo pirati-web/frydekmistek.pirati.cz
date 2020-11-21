@@ -1,0 +1,22 @@
+---
+layout: default
+title: Události
+keywords: aktuality, tiskové zprávy, press, blog
+---
+
+
+<div class="row">
+  <div class="columns">
+    <div class="o-section">
+      <div class="o-section-inner">
+          <header class="c-page-header">
+            <h1 itemprop="headline" class="c-page-title">Události</h1>
+          </header>
+          {% assign tag = 'event'  %}
+         {% assign posts=site.tags[tag] %} 
+         {% include articles/list-responsive.html posts=posts %}
+         {% include articles/pagination.html paginator=paginator %}
+      </div>
+    </div>
+  </div>
+</div>
