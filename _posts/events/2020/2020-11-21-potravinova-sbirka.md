@@ -16,4 +16,4 @@ A co do soboty hledat ve spíži nebo nakoupit?
 - sójový granulát nebo kousky
 - sušené luštěniny (fazole, hrách, čočka)
 - koření (paprika, kari, černá sůl, pepři, kmín, majoránka)
-- trvanlivé jídlo k přímé spotřebě (rybičky, paštika, lančmít)
+- trvanlivé jídlo k přímé spotřebě (rybičky, paštika, lančmít) 
