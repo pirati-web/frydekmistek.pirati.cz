@@ -2,6 +2,7 @@
 date: 2020-11-04
 category: blog
 layout: post
+tags: post
 title: 'Pořádáme potravinovou sbírku pro lidi v nouzi'
 image: articles/2020/sbirka_jidla/food_no_bombs.jpg
 ---
