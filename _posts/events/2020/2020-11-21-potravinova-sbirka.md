@@ -2,7 +2,7 @@
 date: 2020-11-21
 category: blog
 layout: post
-tags: event
+tags: 
 title: 'Potravinová sbírka'
 image: articles/2020/sbirka/sbirka.jpg
 ---
