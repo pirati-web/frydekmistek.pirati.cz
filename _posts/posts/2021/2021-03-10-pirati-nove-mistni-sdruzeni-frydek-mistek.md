@@ -1,6 +1,6 @@
 ---
 layout: post
-category: CLANKY
+category: blog
 title: 'Piráti založili nové místní sdružení Frýdecko-Místecko a zvolili si jeho předsednictvo'
 date: 2021-03-10
 author: Jana Ožanová
