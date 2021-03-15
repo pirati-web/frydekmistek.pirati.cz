@@ -4,13 +4,8 @@ category: blog
 title: 'Piráti založili nové místní sdružení Frýdecko-Místecko a zvolili si jeho předsednictvo'
 date: 2021-03-10
 author: Jana Ožanová
-image: posts/ms-frydecko-mistecko-online.jpg
-tags:
-  - Frýdek-Místek
-  - MS-Frýdecko-Místecko
-  - Leonard-Varga
-  - Jakub-Tichý
-  - Michaela-Davidová
+image: articles/2021/zalozeni_ms/zalozeni_ms.png
+tags: post
 ---
 
 Frýdek-Místek, 10. března 2021 – **Frýdeckomístečtí Piráti mají od včerejška nové místní sdružení. Oficiálně tak potvrdili silnou pozici pirátské buňky ve Frýdku-Místku a okolí. Ustavující schůze Místního sdružení Frýdecko-Místecko, stejně jako volba předsednictva, proběhla on-line. Předsedou byl v tajné internetové volbě zvolen místní zastupitel Leonard Varga, místopředsedy se stali Jakub Tichý, který je také zastupitelem a Michaela Davidová, marketingová specialistka. Předsednictvo místního sdružení se chce zaměřit na růst členské základny, dohlížet na transparentní řízení Magistrátu a progresivním přístupem posunout Frýdek-Místek mezi moderní města. V přípravách je také založení místní kanceláře – tzv. pirátského centra.**
