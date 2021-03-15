@@ -11,7 +11,7 @@ description: zastupitel města Frýdek-Místek <br/> člen kulturní komise # zo
 profession: ředitel divadla Komorní scéna Aréna v Ostravě
 img: people/jakub-tichy.jpg # zakomentuj radek dokud není fotka
 candidateDescription: ředitel divadla # zobrazuje se v komunalni-volby
- mail:
+mail:
   - jakub.tichy@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jakub.tichy.10  # pokud nema, staci smazat tuto radku
