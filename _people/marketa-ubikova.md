@@ -10,7 +10,7 @@ category:
 description: zastupitelka města Frýdek-Místek <br/> členka komise územního plánování a architektury # zobrazuje se v lide
 profession: projektová manažerka
 img: people/marketa-ubikova.jpg # zakomentuj radek dokud není fotka
- mail:
+mail:
   - marketa.ubikova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/marketa.ubikova  # pokud nema, staci smazat tuto radku
