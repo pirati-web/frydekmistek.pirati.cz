@@ -11,7 +11,7 @@ category:
 description: zastupitel města Frýdek-Místek <br/> předseda kontrolního výboru <br/> člen majetkové komise
 profession: překladatel
 img: people/igor-juricek.jpg # zakomentuj radek dokud není fotka
- mail:
+mail:
   - igor.juricek@pirati.cz 
 profiles:
   facebook: https://www.facebook.com/piratifrm/  # pokud nema, staci smazat tuto radku
