@@ -6,8 +6,8 @@ category:
 description: člen komise pro bezpečnost a prevenci kriminality # zobrazuje se v lide
 profession: junior network engineer
 img: people/jakub-petros.jpg # zakomentuj radek dokud není fotka
-# mail:
-#  - marketa.ubikova@pirati.cz
+mail:
+  - jakub.petros@pirati.cz
 profiles:
   facebook: https://www.facebook.com/piratifrm/  # pokud nema, staci smazat tuto radku
   # googleplus: https://plus.google.com/+uzivatel.na.googleplus
