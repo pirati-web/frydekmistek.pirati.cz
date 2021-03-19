@@ -6,9 +6,8 @@ titles:
   after:
 category:
   - zastupitel
-  - vybor
   - komise
-description: zastupitel města Frýdek-Místek <br/> předseda kontrolního výboru <br/> člen majetkové komise
+description: zastupitel města Frýdek-Místek <br/> člen majetkové komise
 profession: překladatel
 img: people/igor-juricek.jpg # zakomentuj radek dokud není fotka
 mail:
