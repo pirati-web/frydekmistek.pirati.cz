@@ -1,12 +1,9 @@
 ---
 uid: dominik.pecuch
 name:     Dominik Pecuch  	# běžně používáné jméno
-titles:
-  before: Bc.
-  after:
 category:
-  - priznivci
-description: programátor # zobrazuje se v lide
+  - komise
+description: člen komise pro dopravu # zobrazuje se v lide
 profession: programátor
 img: people/dominik-pecuch.jpg # zakomentuj radek dokud není fotka
 # mail:
@@ -16,4 +13,10 @@ profiles:
   # googleplus: https://plus.google.com/+uzivatel.na.googleplus
   # twitter: https://twitter.com/uzivatel.na.twitteru
 ---
-Jmenuji se Dominik Pecuch, je mi 26 let,studuji informatiku na VŠB, momentálně kvůli diplomce prodlužuji a zároveň už pracuji v Ostravě jako programátor, O piráty se zajímám už od střední, kdy vlastně ČPS vznikalo a souhlasil jsem s jejich názory už od začátku, protože do té doby jsem neviděl jinou politickou stranu se kterou bych souhlasil. Chci kandidovat za piráty ve FM, protože už se nemůžu dívat jak současní politici hospodaří a starají se o město. Město stagnuje a nerozvíjí se a to je třeba změnit.
+Dominik Pecuch (nar. 1992)
+
+Programátor a člen České pirátské strany. 
+
+Vystudoval VŠB-TUO informatiku a výpočetní techniku. Podílel se na vývoji dopravních a zdravotních systémů na IT4i (ostravský superpočítač). Po úspěšně dokončených studiích, je nyní zaměstnán v ostravské firmě s majiteli z USA, kde se podílí na vývoji software pro americké zákazníky.
+
+Ve volném čase se věnuje zdravému životní stylu a sportu. Rád chodí/běhá po horách a když je možnost, tak lyžuje. V poslední době i rád fotí.
