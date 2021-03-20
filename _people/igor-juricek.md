@@ -5,9 +5,9 @@ titles:
   before: Mgr.
   after:
 category:
-  - zastupitel
+  - namestek
   - komise
-description: zastupitel města Frýdek-Místek <br/> člen majetkové komise
+description: zastupitel města Frýdek-Místek <br/> -sociální péče <br/> -sociálních služeb a zdravotnictví <br/> -protidrogových aktivit a prevence <br/> -informačních technologií <br/> -participace a digitalizace <br/> člen majetkové komise
 profession: překladatel
 img: people/igor-juricek.jpg # zakomentuj radek dokud není fotka
 mail:
