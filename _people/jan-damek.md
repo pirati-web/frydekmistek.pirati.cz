@@ -3,7 +3,8 @@ uid: jan.damek
 name:     Jan Damek  	# běžně používáné jméno
 category:
   - komise
-description: člen komise pro dopravu # zobrazuje se v lide
+  - vybor
+description: člen kontrolního výboru <br/> člen komise pro dopravu # zobrazuje se v lide
 profession: inženýr automatizace
 img: people/jan-damek.jpg # zakomentuj radek dokud není fotka
 # mail:
