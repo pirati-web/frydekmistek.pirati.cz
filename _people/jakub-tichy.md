@@ -5,9 +5,9 @@ titles:
   before:
   after:
 category:
-  - zastupitel
+  - radni
   - komise
-description: zastupitel města Frýdek-Místek <br/> člen kulturní komise # zobrazuje se v lide
+description: radní <br/> -vědy a kulturního rozvoje <br/> -péče o památky <br/> člen kulturní komise # zobrazuje se v lide
 profession: ředitel divadla Komorní scéna Aréna v Ostravě
 img: people/jakub-tichy.jpg # zakomentuj radek dokud není fotka
 candidateDescription: ředitel divadla # zobrazuje se v komunalni-volby
