@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - komise
-description: členka komise pro výchovu a vzdělávání # zobrazuje se v lide
+description: členka komise pro výchovu a vzdělávání <br/> členka komise pro obnovu kulturních míst, historických památek a významných lokalit ve Frýdku-Místku # zobrazuje se v lide
 profession: manažerka marketingu a pr
 img: people/michaela-davidova.jpg # zakomentuj radek dokud není fotka
 # mail:

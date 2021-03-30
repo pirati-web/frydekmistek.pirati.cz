@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - komise
-description: člen komise pro obnovu kulturních míst, historických památek a významných lokalit ve Frýdku-Místku # zobrazuje se v lide
+description: člen komise pro obnovu kulturních míst, historických památek a významných lokalit ve Frýdku-Místku <br/> člen komise územního plánování, architektury a participace # zobrazuje se v lide
 profession: průvodce
 img: people/david-jurecka.jpg # zakomentuj radek dokud není fotka
 # mail:

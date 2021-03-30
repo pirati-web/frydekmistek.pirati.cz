@@ -3,7 +3,7 @@ uid: jakub.petros
 name:     Jakub Petroš  	# běžně používáné jméno
 category:
   - komise
-description: člen komise pro bezpečnost a prevenci kriminality # zobrazuje se v lide
+description: předseda komise pro bezpečnost a prevenci kriminality # zobrazuje se v lide
 profession: junior network engineer
 img: people/jakub-petros.jpg # zakomentuj radek dokud není fotka
 mail:
