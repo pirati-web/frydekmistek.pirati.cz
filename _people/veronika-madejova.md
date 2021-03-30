@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - komise
-description: členka komise pro občanské záležitosti # zobrazuje se v lide
+description: členka komise sociální a zdravotní # zobrazuje se v lide
 profession: projektová manažerka
 img: people/veronika-madejova.jpg # zakomentuj radek dokud není fotka
 # mail:
