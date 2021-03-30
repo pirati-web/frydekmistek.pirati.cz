@@ -7,7 +7,7 @@ titles:
 category:
   - namestek
   - kontaktni_osoba
-description: náměstek primátora <br/> -dopravy a silničního hospodářství <br/> -ochrany veřejného pořádku <br/> -životního prostředí a zemědělství <br/> -prevence kriminality a městské policie <br/> člen kontrolního výboru # zobrazuje se v lide
+description: náměstek primátora <br/> -dopravy a silničního hospodářství <br/> -ochrany veřejného pořádku <br/> -životního prostředí a zemědělství <br/> -prevence kriminality a městské policie # zobrazuje se v lide
 profession: provozovatel obchodu s lokálním designem
 img: people/leonard-varga.jpg # zakomentuj radek dokud není fotka
 candidateDescription: provozovatel obchodu s lokálním designem # zobrazuje se v komunalni-volby
