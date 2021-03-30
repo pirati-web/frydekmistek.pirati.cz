@@ -6,7 +6,8 @@ titles:
   after:
 category:
   - vybor
-description: člen finančního výboru # zobrazuje se v lide
+  - komise
+description: člen finančního výboru <br/> předseda majetkové komise # zobrazuje se v lide
 profession: analytik, jednatel firmy
 img: people/martin-skapa.jpg # zakomentuj radek dokud není fotka
 mail:
