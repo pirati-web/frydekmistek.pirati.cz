@@ -2,6 +2,7 @@
 uid: dominik.pecuch
 name:     Dominik Pecuch  	# běžně používáné jméno
 category:
+  - komise
 description: člen komise pro dopravu # zobrazuje se v lide
 profession: programátor
 img: people/dominik-pecuch.jpg # zakomentuj radek dokud není fotka
