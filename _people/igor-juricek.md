@@ -6,7 +6,6 @@ titles:
   after:
 category:
   - namestek
-  - komise
 description: náměstek primátora <br/> -sociální péče <br/> -sociálních služeb a zdravotnictví <br/> -protidrogových aktivit a prevence <br/> -informačních technologií <br/> -participace a digitalizace
 profession: překladatel
 img: people/igor-juricek.jpg # zakomentuj radek dokud není fotka
