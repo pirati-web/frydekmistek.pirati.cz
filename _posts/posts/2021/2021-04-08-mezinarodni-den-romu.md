@@ -20,4 +20,7 @@ Rozumím, ale nemluvím. Takových jako já je více, snažíme se mít dobrou p
 S ohledem na dnešní Mezinárodní den Romů bych rád odstartoval malé, ale zřetelné změny v našem městě. Prostě malými kroky k velkým věcem. Jsou totiž věci, o kterých se nemluví, jsou nepopulární, ale je třeba je řešit. 
 <br>
 <br>
-Proč je problém vyvěsit na radnici romskou vlajku? Vlajku, která definuje národnost či etnikum. Vyslat signál komunitě. Myslíme i na Vás a pomůžeme Vám. Jsme otevření řešení a diskuzi, jsme připraveni podat pomocnou ruku. Málokteré město či kraj dnes Romskou vlajku vyvěsilo, opravdu velmi málo… Bojí se města narážek, nepřízně voličů či pohrdání?"
+Proč je problém vyvěsit na radnici romskou vlajku? Vlajku, která definuje národnost či etnikum. Vyslat signál komunitě. Myslíme i na Vás a pomůžeme Vám. Jsme otevření řešení a diskuzi, jsme připraveni podat pomocnou ruku. Málokteré město či kraj dnes Romskou vlajku vyvěsilo, opravdu velmi málo… Bojí se města narážek, nepřízně voličů či pohrdání?
+<br>
+<br>
+Cyril Koky, Piráti Frýdek-Místek
