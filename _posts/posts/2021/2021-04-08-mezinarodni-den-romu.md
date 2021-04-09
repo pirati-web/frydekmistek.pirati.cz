@@ -5,7 +5,7 @@ layout: post
 title: '50. výročí Mezinárodního dne Romů'
 author: Cyril Koky
 authorId: cyril.koky    # uid nekoho z _people (nepoviné)
-image: articles/2021/romsky_den/romska_vlajka.png
+image: articles/2021/den_romu/romska_vlajka.png
 tag: post
 ---
 Nikdy jsem to nějak neřešil a bral jsem to s nadhledem. Člověk by se ale neměl stydět za to, odkud pochází a kým je. Čím jsem starší, pohlížím na vše trochu jinak, s ohledem na své děti a na budoucnost.
