@@ -25,6 +25,8 @@ main:
   - link: /program/
     name: Program
     match: program
+  - link: https://nalodeni.pirati.cz/
+    name: Připoj se
   - link: /kontakt/
     name: Kontakt
     match: kontakt
